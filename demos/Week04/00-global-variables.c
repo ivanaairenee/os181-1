@@ -32,3 +32,12 @@ void main(void) {
    printf("varchr7 = %#10X = %c %11p\n", varchr7, varchr7, &varchr7);
 }
 
+/*
+ * A global variable is a variable that is declared outside all functions. 
+ * A local variable can only be used in the function where it is declared. 
+ * A global variable can be used in all functions.
+ * varchr0 until varchr7 are global char variable.
+ * 
+ * This program will print the values of global variables along with their address.
+ * &varchr0 will return the address of varable varchr0.
+ */
