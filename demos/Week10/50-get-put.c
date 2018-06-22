@@ -14,3 +14,7 @@ void main (void) {
    putchar('\n');
 }
 
+/*
+ * getchar() reads a single character from the standard input stream and writes it to cc
+ * putchar(char) writes a character (an unsigned char) specified by the argument char to stdout
+ */
