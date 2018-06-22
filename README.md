@@ -8,6 +8,7 @@ Ivana Irene Thomas / 1606887352 (Ketua)
 #### Demo W00
 **Demo Description**: Try running makefile on Badak server
 (Makefile consists of commands to compile the C program, and remove the executable file (clean))
+
 **Related OS Material**: A little introduction to C language and scripting
 
 #### Demo W01
