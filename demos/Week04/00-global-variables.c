@@ -39,5 +39,6 @@ void main(void) {
  * varchr0 until varchr7 are global char variable.
  * 
  * This program will print the values of global variables along with their address.
+ * %#10X specify hex ASCII value of a char.
  * &varchr0 will return the address of varable varchr0.
  */
