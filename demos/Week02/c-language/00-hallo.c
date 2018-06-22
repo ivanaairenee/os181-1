@@ -13,3 +13,8 @@
 void main(void) {
    printf("Hallo\n");
 }
+
+/* 
+ * When you run this program, line printf("") will 
+ * print the string inside the parentheses to console
+ */
