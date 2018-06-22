@@ -26,3 +26,10 @@ void main(void) {
    printf(        "PID[%d] PPID[%d]  <<< <<< <<<\n", getpid(), getppid());
 }
 
+/* by muhafkar
+Pada program ini, print pada child akan dilakukan terlebih dahulu
+karena setelah dilakukan fork, proses parent akan memasuki statement else
+dan akan menunggu hingga proses child selesai menjalankan program
+
+Oleh karena itu, dapat dilihat bahwa print pid pada proses child dilakukan terlebih dahulu
+*/

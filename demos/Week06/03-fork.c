@@ -26,3 +26,12 @@ void main(void) {
    printf("PID[%d] PPID[%d] (STOP:%s)\n", getpid(), getppid(), iAM);
 }
 
+/* by muhafkar
+Program ini hampir sama dengan program 01-fork,
+bedanya pada program ini sleep(1) dirubah menjadi wait(NULL).
+
+fungsi wait(NULL) akan membuat proses tersebut akan berhenti 
+sampai proses childnya selesai menjalankan program
+
+Oleh karena itu, tidak akan ada delay pada saat printing pada program ini, beda dengan program 01-fork
+*/

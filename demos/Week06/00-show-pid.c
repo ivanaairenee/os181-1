@@ -14,3 +14,7 @@ void main(void) {
    printf("  [[[ This is 00-show-pid: PID[%d] PPID[%d] ]]]\n", getpid(), getppid());
 }
 
+/* by muhafkar
+Program ini menunjukkan id dari proses saat ini dan PARENT id dari proses saat ini
+dengan menggunakan fungsi getpid() dan getppid()
+*/
