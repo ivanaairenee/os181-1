@@ -17,3 +17,16 @@ void main(void) {
    sleep(1);
 }
 
+/*
+ * In Linux, an executable stored on disk is called a program,
+ * and a program loaded into memory and running is called a process. 
+ * When a process is started, it is given a unique number called process ID (PID)
+ * that identifies that process to the system
+ * 
+ * Each process is assigned a parent process ID (PPID) that tells which process started it. 
+ * The PPID is the PID of the process’s parent.
+ *
+ * To see PID and PPID in current process you can use getpid() and getppid()
+ *
+ * sleep() function delays program execution for a given number of seconds
+ */
