@@ -59,6 +59,7 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 1. You need to know every single line in demos given. (by Muhammad Hanif Pratama)
 2. Make sure you wrote question and answers based on the test in the past in your notes (by Muhammad Hanif Pratama)
 3. Pelajari buku Operating System Concept (9th edition) yang berkaitan tentang materi yang akan dibahas pada minggu tersebut (by Muhammad Iqbal Mahendra)   
+4. Membaca PPT dan mencoba demo untuk materi yang akan dibahas lalu tanyakan hal-hal yang tidak dimengerti di kelas (by Shavira Adeva)
 
 ## What we learn from running demos on WSL/Ubuntu Container
 
