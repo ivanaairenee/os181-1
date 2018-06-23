@@ -5,11 +5,14 @@ Ivana Irene Thomas / 1606887352 (Ketua)
 
 Anisha Inas Izdihar / 1606829730 (Wakil Ketua 1)
 
+Muhammad Iqbal Mahendra / 1606874690 (Wakil Ketua 4)
+
 Stefan Mayer Sianturi / 1606918364 (Wakil Ketua 11)
 
 Muhammad Hanif Pratama / 1606876065 (Wakil Ketua 12)
 
 Rizki Leonardo / 1606878934 (Wakil Ketua 16)
+
 ## Demo Descriptions and Related OS Materials
 
 #### Demo W00
