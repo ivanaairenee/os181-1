@@ -26,7 +26,7 @@ void main(void) {
    printf(LINETXT);
 }
 
-/*
+/* Notes by Anisha Inas
  * Looping in c is similar to looping in java
  *
  * The outer loop will execute the block including the inner loop 

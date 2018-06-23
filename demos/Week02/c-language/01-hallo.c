@@ -16,7 +16,7 @@ void main(void) {
    printf(STRING);
 }
 
-/* 
+/* Notes by Anisha Inas
  * In the beginning this program defined a constant variable named STRING
  * with value "This is a string"
  * When you run this program, line printf(STRING) will 

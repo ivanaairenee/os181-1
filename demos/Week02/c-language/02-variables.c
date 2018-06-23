@@ -32,7 +32,8 @@ void main (void) {
 
 }
 
-/* This program defined int variable, int array, char variable, and char array
+/* Notes by Anisha Inas
+ * This program defined int variable, int array, char variable, and char array
  * The string literal assigned to a character array must be enclosed by double quotations
  *
  * When you run this program, line printf("") will 

@@ -14,7 +14,7 @@ void main() {
    printf("This is program #1\n");
 }
 
-/* 
+/* Notes by Anisha Inas
  * When you run this program, line printf("") will 
  * print the string inside the parentheses to console
  */

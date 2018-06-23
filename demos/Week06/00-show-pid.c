@@ -14,7 +14,7 @@ void main(void) {
    printf("  [[[ This is 00-show-pid: PID[%d] PPID[%d] ]]]\n", getpid(), getppid());
 }
 
-/*
+/* Notes by Anisha Inas
  * In Linux, an executable stored on disk is called a program,
  * and a program loaded into memory and running is called a process. 
  * When a process is started, it is given a unique number called process ID (PID)

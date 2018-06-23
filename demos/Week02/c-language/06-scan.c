@@ -20,7 +20,7 @@ void main(void) {
    printf("Isi buffer = %s\n",buf);
 }
 
-/*
+/* Notes by Anisha Inas
  * scanf() reads formatted data from standard input 
  * and then writes the results into the arguments given
  * 
