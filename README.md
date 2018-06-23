@@ -5,6 +5,7 @@ Ivana Irene Thomas / 1606887352 (Ketua)
 
 Anisha Inas Izdihar / 1606829730 (Wakil Ketua 1)
 
+Rizki Leonardo / 1606878934 (Wakil Ketua 16)
 ## Demo Descriptions and Related OS Materials
 
 #### Demo W00
@@ -33,6 +34,8 @@ Anisha Inas Izdihar / 1606829730 (Wakil Ketua 1)
 ### WSL
 
 #### Cara menggunakan WSL
+
+**0. Pastikan Windows 10 64-bit anda sudah terupdate hingga minimal versi 1607 (bisa dicek pada: Start Menu->setting->system->about)
 
 **1. Aktifkan Windows Subsystem for Linux di Windows 10** dengan cara masuk ke menu **Turn Windows Features on or off** (ketik di search box keywordnya), lalu cari **Windows Subsystem for Linux** di box yang muncul, lalu centang check-box nya, klik **OK** lalu biarkan Windows memprosesnya. 
 
