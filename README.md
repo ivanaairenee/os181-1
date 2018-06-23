@@ -15,6 +15,8 @@ Shavira Adeva / 1606831464 (Wakil Ketua 6)
 
 Michael Giorgio Wirawan / 1606875825 (Wakil Ketua 8)
 
+M Ikhsan Kurniawan (Wakil Ketua 9)
+
 Stefan Mayer Sianturi / 1606918364 (Wakil Ketua 11)
 
 Muhammad Hanif Pratama / 1606876065 (Wakil Ketua 12)
@@ -73,6 +75,7 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 9. Untuk setiap minggunya, jangan lupa mengecek nilai pada siakng untuk mengetrack sudah sebanyak apa nilai didapatkan dan kurang berapa untuk mencapai target (by Muhammad Afkar)
 10. Usahakan datang 10 menit sebelum kelas dimulai agar tidak terlambat masuk kelas (by Muhammad Iqbal Mahendra)
 11. Setelah mempelajari Buku, PPT, maupun demo sebelum kuliah dimulai, catat hal-hal yang penting dan perlu diingat di memo pada Week terkait untuk membantu memahami dan membantu menjawab soal saat UTS atau UAS (by Michael Giorgio Wirawan)
+12. Belajar bersama teman dalam persiapan untuk uts dan uas agar bisa lebih memahami konsep dengan baik. (by M Ikhsan Kurniawan)
 
 ## What we learn from running demos on WSL/Ubuntu Container
 
