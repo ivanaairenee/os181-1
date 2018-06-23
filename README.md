@@ -17,6 +17,8 @@ Stefan Mayer Sianturi / 1606918364 (Wakil Ketua 11)
 
 Muhammad Hanif Pratama / 1606876065 (Wakil Ketua 12)
 
+Muhammad Afkar / 1606917840 (Wakil Ketua 13)
+
 Rizki Leonardo / 1606878934 (Wakil Ketua 16)
 
 ## Demo Descriptions and Related OS Materials
@@ -65,6 +67,8 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 5. Mencoba dan memahami setiap demo perminggunya, agar dapat menyiapkan kelas di minggu selanjutnya (by Zhelia Alifa)
 6. Try to understand the past exams and dont hesitate to ask what you want to know when in class or outside the class (Thrisnadevany Amalia)
 7. Aktif dalam menjawab pertanyaan maupun bertanya dalam kelas untuk nilai partisipasi yang tinggi (by Nixi Sendya Putri)
+8. Jangan malu untuk bertanya pada dosen maupun teman yang sudah paham, karena akan sulit jika tidak mengerti (by Muhammad Afkar)
+9. Untuk setiap minggunya, jangan lupa mengecek nilai pada siakng untuk mengetrack sudah sebanyak apa nilai didapatkan dan kurang berapa untuk mencapai target (by Muhammad Afkar)
 
 ## What we learn from running demos on WSL/Ubuntu Container
 
