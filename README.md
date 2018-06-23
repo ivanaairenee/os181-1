@@ -32,5 +32,13 @@ Anisha Inas Izdihar / 1606829730 (Wakil Ketua 1)
 
 ### WSL
 
+#### Cara menggunakan WSL
 
+**1. Aktifkan Windows Subsystem for Linux di Windows 10** dengan cara masuk ke menu **Turn Windows Features on or off** (ketik di search box keywordnya), lalu cari **Windows Subsystem for Linux** di box yang muncul, lalu centang check-box nya, klik **OK** lalu biarkan Windows memprosesnya. 
+
+**2. Menginstall Ubuntu** Buka Microsoft Store, lalu search Ubuntu, dan install sesuai distro yang diinginkan, contohnya **Ubuntu 18.04** klik Get
+
+**3. Setup Ubuntu** buka Command Prompt, lalu ketikan perintah untuk menjalankan ubuntu (contohnya **ubuntu1804** tergantung distro yang diinstal), jika baru pertama kali dijalankan, ubuntu akan meminta untuk membuat username dan password, buat saja. Setelah itu masukan perintah **sudo apt-get update**, lalu **sudo apt-get install build-essential**, lalu **sudo apt-get install git-core**. Setelah itu kalian bisa menggunakan WSL untuk menjalankan demo-demo yang ada
+
+**4. Mencoba Demo** untuk mencoba demo, clone repository ini, lalu pergi ke direktori demo yang ingin dicoba lalu silakan dicoba (gunakan perintah *make* atau *gcc -o nama-program nama-program.c* untuk meng-compile program, lalu gunakan perintah *./nama-program* untuk menjalankan program)
 
