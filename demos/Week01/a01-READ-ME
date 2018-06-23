@@ -79,3 +79,6 @@ done
 
 exit
 
+# Apa yang dijalankan script ini adalah mengecek ukuran dari layar terminal apakah sesuai
+# Ukuran yang diharapkan adalah 80 x 23, jika tidak begitu output yang dihasilkan akan terlihat berantakan atau ada longgar
+# lalu script ini juga menunjukkan berkas-berkas yang ada dalam folder Week01 (dengan perintah ls -AF)
