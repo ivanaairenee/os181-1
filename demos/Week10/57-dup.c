@@ -36,3 +36,16 @@ void main(void) {
    printf("**** Compare with 54-write\n");
 }
 
+/* Notes by Thrisnadevany
+* O_RDWR open for reading and writing
+* O_CREAT indicates that the call to open() has a mode argument,
+* if the file being opened already exist O_CREAT has no effect
+* if the file being opened does not exist it is created
+* if O_CREAT is specified and the file did not previously exist a sucessful open
+* () sets the access time, change time, and modification time for the file
+*
+* if succesful, dup() returns a new file descriptor
+* if unsucessful, dup() returs -1 and sets errno to EBADF or EMFILE
+* 
+*  
+*/
