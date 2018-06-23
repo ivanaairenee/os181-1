@@ -34,3 +34,8 @@ output akan keluar perlahan lahan pada satu baris ketika menggunakan fflush,
 bukan 1 baris langsung keluar semua outputnya
 */
 
+/* Notes by Muhammad Iqbal Mahendra
+Fflush() tidak mempercepat I/O tetapi user process menunggu hingga I/O selesai.
+Hal ini dikarenakan user process dan I/O menggunakan scheduling yang berbeda.
+*/
+
