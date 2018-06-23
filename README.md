@@ -24,6 +24,17 @@ Rizki Leonardo / 1606878934 (Wakil Ketua 16)
 **Related OS Material**: A little introduction to C language and scripting
 
 #### Demo W01
+ notes by Rizki Leonardo: di wsl, jika program tidak berjalan karena command "\r":
+ ada 3 opsi solusi untuk memecahkan permasalahan ini: (pilih salah satu saja)
+opsi 1: dos2unix
+ a. masukkan command "sudo apt-get install dos2unix"
+ b. masukkan command "dos2unix [file]" untuk setiap [file]
+ c. jalankan seperti biasa, yaitu "bash [file]"
+opsi 2: mengganti semua error dari "\r"
+ masukkan command "sed -i.bak 's/\r$//' [file]"
+opsi 3: git essential
+ masukan perintah sudo apt-get update, lalu sudo apt-get install build-essential, lalu sudo apt-get install git-core, lalu sudo apt upgrade.
+ jika masih tidak berjalan, coba restart untuk update (bisa berkali-kali restart)
 #### Demo W02
 #### Demo W03
 #### Demo W04

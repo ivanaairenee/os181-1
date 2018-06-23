@@ -82,14 +82,3 @@ exit
 # Apa yang dijalankan script ini adalah mengecek ukuran dari layar terminal apakah sesuai
 # Ukuran yang diharapkan adalah 80 x 23, jika tidak begitu output yang dihasilkan akan terlihat berantakan atau ada longgar
 # lalu script ini juga menunjukkan berkas-berkas yang ada dalam folder Week01 (dengan perintah ls -AF)
-
-# notes by Rizki Leonardo: di wsl, jika program tidak berjalan karena command "\r":
-# ada 3 opsi solusi untuk memecahkan permasalahan ini: (pilih salah satu saja)
-# opsi 1: dos2unix
-# a. masukkan command "sudo apt-get install dos2unix"
-# b. masukkan command "dos2unix [file]" untuk setiap [file]
-# c. jalankan seperti biasa, yaitu "bash [file]"
-# opsi 2: mengganti semua error dari "\r"
-# masukkan command "sed -i.bak 's/\r$//' [file]"
-# opsi 3: git essential
-# masukkan command "sudo apt install git build-essential", "sudo apt update", lalu "sudo apt upgrade"
