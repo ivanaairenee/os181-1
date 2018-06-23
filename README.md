@@ -57,8 +57,9 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 
 ## Tips and Trick in Operating System Course
 1. You need to know every single line in demos given. (by Muhammad Hanif Pratama)
-
 2. Make sure you wrote question and answers based on the test in the past in your notes (by Muhammad Hanif Pratama)
+3. Pelajari buku Operating System Concept (9th edition) yang berkaitan tentang materi yang akan dibahas pada minggu tersebut (by Muhammad Iqbal Mahendra)   
+
 ## What we learn from running demos on WSL/Ubuntu Container
 
 ### Ubuntu Container
