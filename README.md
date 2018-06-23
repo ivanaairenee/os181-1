@@ -5,6 +5,8 @@ Ivana Irene Thomas / 1606887352 (Ketua)
 
 Anisha Inas Izdihar / 1606829730 (Wakil Ketua 1)
 
+Nixi Sendya Putri / 1606918383 (Wakil Ketua 2)
+
 Muhammad Iqbal Mahendra / 1606874690 (Wakil Ketua 4)
 
 Zhelia Alifa / 1606825612 (Wakil Ketua 5)
@@ -62,6 +64,7 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 4. Membaca PPT dan mencoba demo untuk materi yang akan dibahas lalu tanyakan hal-hal yang tidak dimengerti di kelas (by Shavira Adeva)
 5. Mencoba dan memahami setiap demo perminggunya, agar dapat menyiapkan kelas di minggu selanjutnya (by Zhelia Alifa)
 6. Try to understand the past exams and dont hesitate to ask what you want to know when in class or outside the class (Thrisnadevany Amalia)
+7. Aktif dalam menjawab pertanyaan maupun bertanya dalam kelas untuk nilai partisipasi yang tinggi (by Nixi Sendya Putri)
 
 ## What we learn from running demos on WSL/Ubuntu Container
 
