@@ -69,6 +69,7 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 7. Aktif dalam menjawab pertanyaan maupun bertanya dalam kelas untuk nilai partisipasi yang tinggi (by Nixi Sendya Putri)
 8. Jangan malu untuk bertanya pada dosen maupun teman yang sudah paham, karena akan sulit jika tidak mengerti (by Muhammad Afkar)
 9. Untuk setiap minggunya, jangan lupa mengecek nilai pada siakng untuk mengetrack sudah sebanyak apa nilai didapatkan dan kurang berapa untuk mencapai target (by Muhammad Afkar)
+10. Usahakan datang 10 menit sebelum kelas dimulai agar tidak terlambat masuk kelas (by Muhammad Iqbal Mahendra)
 
 ## What we learn from running demos on WSL/Ubuntu Container
 
