@@ -26,3 +26,15 @@ void main(void) {
    printf("PID[%d] PPID[%d] (STOP:%s)\n", getpid(), getppid(), iAM);
 }
 
+/* by muhafkar
+Program ini akan membuat sebuah proses terbagi atas 2,
+yaitu proses saat ini (parent) dan proses duplikat parentnya (child), setelah dilakukan fork()
+
+Pada dasarnya, fork() akan bernilai 0 jika proses tersebut adalah proses child,
+jadi, karena fork() hanya membagi menjadi proses child dan parent saja dan kedua proses berjalan bersamaan,
+maka proses parent akan masuk ke statement if yang mana proses itu akan diberhentikan selama satu detik
+dan proses child akan masuk ke statement else kemudian menyelesaikan print sampai program selesai.
+
+Kemudian, setelah proses parent disleep selama satu detik, barulah proses parent bisa berjalan kembali
+dan menyelesaikan print hingga program selesai.
+*/
