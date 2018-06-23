@@ -7,6 +7,8 @@ Anisha Inas Izdihar / 1606829730 (Wakil Ketua 1)
 
 Muhammad Iqbal Mahendra / 1606874690 (Wakil Ketua 4)
 
+Zhelia Alifa / 1606825612 (Wakil Ketua 5)
+
 Stefan Mayer Sianturi / 1606918364 (Wakil Ketua 11)
 
 Muhammad Hanif Pratama / 1606876065 (Wakil Ketua 12)
