@@ -25,6 +25,7 @@ Rizki Leonardo / 1606878934 (Wakil Ketua 16)
 
 #### Demo W01
 notes by Rizki Leonardo: di wsl, jika program tidak berjalan karena command "\r", ada 3 opsi solusi untuk memecahkan permasalahan ini: (pilih salah satu saja)
+
 **opsi 1: dos2unix**
 
 a. masukkan command "sudo apt-get install dos2unix"
