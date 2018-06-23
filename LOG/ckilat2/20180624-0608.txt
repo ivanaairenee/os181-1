@@ -1,0 +1,5 @@
+dpkg-reconfigure tzdata
+
+Current default time zone: 'Asia/Jakarta'
+Local time is now:      Sun Jun 24 06:07:46 WIB 2018.
+Universal Time is now:  Sat Jun 23 23:07:46 UTC 2018.

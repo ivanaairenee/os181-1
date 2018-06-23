@@ -1,0 +1,4 @@
+CKILAT2 merupakan CONTAINER.
+Container tidak memiliki KERNEL sendiri; jadi module harus diinstall pada kernel host.
+Saya telah meminta pihak CLOUD KILAT untuk install "module fuse".
+
