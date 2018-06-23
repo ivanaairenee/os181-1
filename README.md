@@ -9,6 +9,8 @@ Muhammad Iqbal Mahendra / 1606874690 (Wakil Ketua 4)
 
 Zhelia Alifa / 1606825612 (Wakil Ketua 5)
 
+Shavira Adeva / 1606831464 (Wakil Ketua 6)
+
 Stefan Mayer Sianturi / 1606918364 (Wakil Ketua 11)
 
 Muhammad Hanif Pratama / 1606876065 (Wakil Ketua 12)
