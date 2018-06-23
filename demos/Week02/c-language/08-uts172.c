@@ -27,3 +27,10 @@ void main (void) {
    printf("==== main2 %c\n", localChar);
 }
 
+/*created by zhelialifa
+*line 25: mengambil local char pada fungsi yaitu c
+*line 26: memanggil fungsi getGlobal()
+*line 17: mengambil global char yaitu a
+*line 19: mengganti chartPTR dari a menjadi b
+*line 27: menggambil local char terakhir yaitu b
+*/
