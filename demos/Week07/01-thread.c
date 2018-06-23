@@ -42,3 +42,22 @@ void main(void) {
    beberes_trit  ("Bye Bye Main...");
 }
 
+/* Notes by Michael Giorgio
+ * Thread berjalan concurrently (berdampingan) dan mengakses memori yang sama secara bersamaan.
+ * Hal tersebut menyebabkan "Race condition" dimana tidak ada keteraturan dan kejelasan ketika
+ * beberapa thread mengakses 1 variable yang sama. Maka dari itu, datang peran semaphore
+ * yang menunggu suatu instruksi selesai untuk melanjutkan.
+ *
+ * Pada main, pertama menginit semaphore generik dan generik2 dengan sem_init() dengan 0.
+ * Lalu menjalankan thread setelah didaftarkan. Ke-3 thread, thread1 thread2 dan thread3
+ * jalan bersamaan. Tetapi thread1 semaphore menunggu generik dan thread3 semaphore menunggu generik2.
+ * Maka thread2 jalan terlebih dengan print string "THREAD2: I am first!", kemudian sem_post()
+ * mengubah generik menjadi 1, yang mengijinkan thread1 untuk jalan, setelah sem_wait(), generik
+ * kembali berubah menjadi 0 dan print string "THREAD1: I am second!" dan sem_post() generik2
+ * yang mengijinkan thread3 untuk jalan dan print string "THREAD3: I am last!". Setelah semua thread
+ * selesai, beberes_trit() dijalankan dengan print string "Bye Bye Main...".
+ *
+ * Dengan adanya semaphore, bisa dipastikan flow jalannya sebuah program dengan runtutan
+ * yang pasti dan jelas serta menghapuskan kemungkinan terjadinya "Race condition"
+ */
+
