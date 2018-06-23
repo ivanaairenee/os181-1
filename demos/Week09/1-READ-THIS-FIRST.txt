@@ -91,3 +91,16 @@ EXTRA:
 # GUID (Globally Unique IDentifiers) ls -al /dev/disk/by-uuid
 
 RMS
+
+===================================================================
+FORK01 Sun Jun 24 00:05:14 WIB 2018
+
+Perhatian:
+FUSE tidak jalan di container dan WSL
+
+rms
+
+
+
+
+
