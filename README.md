@@ -40,5 +40,5 @@ Anisha Inas Izdihar / 1606829730 (Wakil Ketua 1)
 
 **3. Setup Ubuntu** buka Command Prompt, lalu ketikan perintah untuk menjalankan ubuntu (contohnya **ubuntu1804** tergantung distro yang diinstal), jika baru pertama kali dijalankan, ubuntu akan meminta untuk membuat username dan password, buat saja. Setelah itu masukan perintah **sudo apt-get update**, lalu **sudo apt-get install build-essential**, lalu **sudo apt-get install git-core**. Setelah itu kalian bisa menggunakan WSL untuk menjalankan demo-demo yang ada
 
-**4. Mencoba Demo** untuk mencoba demo, clone repository ini, lalu pergi ke direktori demo yang ingin dicoba lalu silakan dicoba (gunakan perintah *make* atau *gcc -o nama-program nama-program.c* untuk meng-compile program, lalu gunakan perintah *./nama-program* untuk menjalankan program)
+**4. Mencoba Demo** untuk mencoba demo, clone repository ini, lalu pergi ke direktori demo yang ingin dicoba lalu silakan dicoba (gunakan perintah *bash nama-program* untuk menjalankan program)
 
