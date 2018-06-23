@@ -1,0 +1,6 @@
+FUSE tidak jalan di CKILAT2.
+
+$ modprobe fuse
+modprobe: ERROR: ../libkmod/libkmod.c:514 lookup_builtin_file() could not open builtin file '/lib/modules/4.4.0/modules.builtin.bin'
+modprobe: FATAL: Module fuse not found in directory /lib/modules/4.4.0
+
