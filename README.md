@@ -61,6 +61,7 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 3. Pelajari buku Operating System Concept (9th edition) yang berkaitan tentang materi yang akan dibahas pada minggu tersebut (by Muhammad Iqbal Mahendra)   
 4. Membaca PPT dan mencoba demo untuk materi yang akan dibahas lalu tanyakan hal-hal yang tidak dimengerti di kelas (by Shavira Adeva)
 5. Mencoba dan memahami setiap demo perminggunya, agar dapat menyiapkan kelas di minggu selanjutnya (by Zhelia Alifa)
+6. Try to understand the past exams and dont hesitate to ask what you want to know when in class or outside the class (Thrisnadevany Amalia)
 
 ## What we learn from running demos on WSL/Ubuntu Container
 
