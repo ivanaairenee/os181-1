@@ -23,3 +23,8 @@ void main(void) {
    printf("I am PID[%4d] -- The fork() return value is: %4d)\n", getpid(), value);
 }
 
+/*created by zhelialifa
+*program akan membagi 2 proses yaitu parent (proses saat ini) dan child (penambahan +1 dari parentnya)
+*kedua proses tersebut berjalan bersamaan  dan ada proses yang menunggu ketika fungsi fork() sampai selesai dijalankan
+*value yang direturn adalah parent sebelumnya
+*/
