@@ -1,0 +1,2 @@
++- menambahkan nama dan tips and tricks di README.md
+
