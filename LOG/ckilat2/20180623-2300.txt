@@ -1,4 +1,9 @@
+2018-06-23:
+
 Install paket tambahan:
+
+rms
+
 
 # apt-get install autoconf automake build-essential \
 >                 fuse libfuse-dev lynx pkg-config sshfs

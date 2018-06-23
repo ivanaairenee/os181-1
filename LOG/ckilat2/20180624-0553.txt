@@ -1,5 +1,9 @@
+2018-06-24:
+
 WOA:
 Selama ini; ckilat2 belum pernah di update!!!!
+
+rms
 
 #######################################################################################
 # apt-get update; apt-get dist-upgrade -y; apt-get autoremove -y; apt-get autoclean -y;
