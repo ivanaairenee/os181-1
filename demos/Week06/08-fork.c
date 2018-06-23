@@ -24,3 +24,11 @@ void main(void) {
    exit(0);
 }
 
+/* by muhafkar
+Program ini akan membuat suatu proses parent menunggu terlebih dahulu sampai childnya selesai,
+
+Oleh karena itu, maka proses child yang paling baru akan memiliki ii paling besar,
+dan proses parent yang paling lama akan memilik ii paling kecil
+
+Nilai ii tiap proses akan lebih jelas ketika digambarkan setiap prosesnya
+*/
