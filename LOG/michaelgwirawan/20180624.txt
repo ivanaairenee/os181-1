@@ -1,3 +1,4 @@
 +- membuat folder pribadi pada sandbox beserta README.md
 +- membuat folder pribadi pada log beserta membuat 2 file log (20180623 dan 20180624)
++- membuat notes pada Week07, file 00.thread.c
 
