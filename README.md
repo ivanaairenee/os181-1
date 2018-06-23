@@ -35,7 +35,7 @@ Rizki Leonardo / 1606878934 (Wakil Ketua 16)
 
 #### Cara menggunakan WSL
 
-**0. Pastikan Windows 10 64-bit anda sudah terupdate minimal hingga versi 1607 (bisa dicek pada: Start Menu->setting->system->about)
+**0. Pastikan Windows 10 64-bit anda sudah terupdate** minimal hingga versi 1607 (bisa dicek pada: Start Menu->setting->system->about)
 
 **1. Aktifkan Windows Subsystem for Linux di Windows 10** dengan cara masuk ke menu **Turn Windows Features on or off** (ketik di search box keywordnya), lalu cari **Windows Subsystem for Linux** di box yang muncul, lalu centang check-box nya, klik **OK** lalu biarkan Windows memprosesnya. 
 
