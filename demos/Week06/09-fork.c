@@ -25,6 +25,8 @@ void main(void) {
 
 /*created by zhelialifa
 *program akan membagi 2 proses yaitu parent (proses saat ini) dan child (penambahan +1 dari parentnya)
-*kedua proses tersebut berjalan bersamaan  dan ada proses yang menunggu ketika fungsi fork() sampai selesai dijalankan
+*fork() akan bernilai 0 jika proses tersebut adalah proses child,
+*fork() pada program ini membagi proses child dan parent, maka kedua proses tersebut berjalan bersamaan
+*di program ini ada proses yang menunggu ketika fungsi fork() sampai selesai dijalankan
 *value yang direturn adalah parent sebelumnya
 */
