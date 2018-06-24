@@ -29,3 +29,11 @@ echo ""
 
 exit
 
+/*created by zhelialifa WK5
+*Run with  Ubuntu Container
+*Line 14: variable RESULT akan menampung setiap nama file yang ada di dalam folder W01-demos dengan menggunakan line scripting
+*Line 21: variable FILE=berisi file dengan nama "ZA-thisfile.txt"
+*Line 22-28 diberikan condition dan dicek apakah FILE terdapat pada W01
+*Jika EXIST, maka "ZA-thisfile.txt" EXISTS!
+*Jika not EXIST, maka "ZA-thisfile.txt" does not  EXISTS!
+*/
