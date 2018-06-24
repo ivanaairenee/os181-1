@@ -1,0 +1,1 @@
++- membuat folder pribadi pada LOG serta 2 file log (20180623 dan 20180624)
