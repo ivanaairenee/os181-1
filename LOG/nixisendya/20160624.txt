@@ -1,0 +1,2 @@
+- Membuat folder nixisendya pada LOG
+- Menambahkan log 3 hari (22, 23, 24)

@@ -1,0 +1,4 @@
+- Mencoba server pada ciklat, install build essential, git dan segala yang dibutuhkan
+- Mencoba demo week0, week1 dan week2 pada ckilat
+- Menambahkan nama pada list collaborator di Readme.md
+- Membuat folder sandbox nixisendya
