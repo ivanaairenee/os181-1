@@ -1,0 +1,8 @@
++-Menambahkan catatan di program 02-variables.c di Week02
++-Menambahkan catatan di program 03-variables.c di Week02
++-Menambahkan catatan di program 06-scan.c di Week02
++-Menambahkan catatan di program 07-status.c di Week02
++-Menambahkan catatan di program 00-global-variables.c di Week04
++-Menambahkan catatan di program 00-show-pid.c di Week06
++-Menambahkan catatan di program 50-get-put.c di Week10
++-Menambahkan catatan di program 51-get-put-loop.c di Week10

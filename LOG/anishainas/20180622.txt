@@ -1,0 +1,7 @@
++-Mencoba server pada ckilat
++-Meng-clone git os181
++-Menambahkan sandbox anishainas
++-Menjalankan demo dan mencoba mempelajarinya
++-Menambahkan catatan di program example di Week00
++-Menambahkan catatan di program 00-halo.c di Week02
++-Menambahkan catatan di program 01-halo.c di Week02
