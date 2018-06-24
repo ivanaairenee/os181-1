@@ -31,6 +31,8 @@ Ibnu Sofian Firdaus (Wakil Ketua 15)
 
 Rizki Leonardo (Wakil Ketua 16)
 
+Rian Pramudia Salasa (Wakil Ketua 14)
+
 ## Demo Descriptions and Related OS Materials
 
 #### Demo W00
