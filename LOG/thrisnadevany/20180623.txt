@@ -1,5 +1,5 @@
 +- membuat folder thrisnadevany dalam Sandbox
 +- men copy demos ke dalam Sandbox thrisnadevany
-+- mencoba demo Week10 pada SandBox
++- mencoba demo Week10 file 57-dup pada SandBox
 +- menambahkan notes pada Week10 pada file 57-dup.c
 +- menambahkan tips dan trik OS pada README.md os181-1
