@@ -28,4 +28,9 @@ void main(void) {
    printf("\n");
    fclose(fp);
 }
-
+/* Notes by Thrisnadevany
+* file tidak terbuka dan akan memberikan output :
+* fopen error...
+* karena file yang ingin kita buka adalah untuk dibaca ("r")
+* maka file nya harus sudah ada (exist)
+*/
