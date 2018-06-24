@@ -15,6 +15,8 @@ Zhelia Alifa (Wakil Ketua 5)
 
 Shavira Adeva (Wakil Ketua 6)
 
+Thrisnadevany Amalia (Wakil Ketua 7)
+
 Michael Giorgio Wirawan (Wakil Ketua 8)
 
 M Ikhsan Kurniawan (Wakil Ketua 9)
