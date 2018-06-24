@@ -1,0 +1,8 @@
+Sun Jun 24 22:24:31 WIB 2018
+
+Tambah paket:
+
+# apt-get install aptitude biber build-essential fcitx fcitx-pinyin fonts-hack-otf fonts-hack-ttf fonts-hack-web fonts-noto fonts-noto-cjk fonts-noto-hinted fonts-noto-mono fonts-noto-unhinted gawk git gnome-terminal gnupg groff guake latexmk ntfs-3g perl-doc rsync texlive-fonts-recommended texlive-latex-base texlive-latex-extra texlive-latex-recommended usbutils vim wget whiptail xfce4 xfce4-terminal xzdec
+
+rms
+
