@@ -81,6 +81,7 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 11. Setelah mempelajari Buku, PPT, maupun demo sebelum kuliah dimulai, catat hal-hal yang penting dan perlu diingat di memo pada Week terkait untuk membantu memahami dan membantu menjawab soal saat UTS atau UAS (by Michael Giorgio Wirawan)
 12. Belajar bersama teman dalam persiapan untuk uts dan uas agar bisa lebih memahami konsep dengan baik. (by M Ikhsan Kurniawan)
 13. Kerjakan tugas-tugas yang diminta oleh dosen segera agar tidak terlupa dan kehilangan poin nilai yang berharga (by Rizki Leonardo)
+14. untuk memahami demo lebih baik, bisa dengan mencobanya dan ber eksperimen dari demo tersebut sehingga ilmu yang didapat semakin banyak. (by shavira adeva)
 
 ## What we learn from running demos on WSL/Ubuntu Container
 
