@@ -3,4 +3,5 @@
 +- membuat notes pada Week07, file 00.thread.c
 +- membuat notes pada Week07, file 01.thread.c
 +- copy folder demos ke SandBox
++- menambahkan width.precision formatting pada Week02, file 07.status.c
 
