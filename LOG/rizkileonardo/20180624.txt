@@ -1,3 +1,3 @@
 +- membuat folder pribadi pada LOG serta 2 file log (20180623 dan 20180624)
-+- mengcopy demos ke sandbox folder pribadi
++- mengcopy demos ke sandbox folder masing-masing
 +- menambahkan tips and trick pada readme.md
