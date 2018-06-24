@@ -19,7 +19,7 @@ M Ikhsan Kurniawan (Wakil Ketua 9)
 
 Stefan Mayer Sianturi (Wakil Ketua 11)
 
-Muhammad Hanif Pratama (Wakil Ketua 12)
+Muhammad Hanif Pratama (Wakil Ketua 12) - hanifalc
 
 Muhammad Afkar (Wakil Ketua 13)
 
