@@ -1,0 +1,5 @@
++- mencoba Week04 file 02-pointers.c
++- Menambahkan notes padaWeek04 file 02-pointers.c
++- mencoba Week08 file 20-parents dan 22-hello-goodbye
++- Menambahkan kembali tips & tricks di README.md
++- membuat LOG 20180623.txt dan 20180624.txt
