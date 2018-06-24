@@ -1,0 +1,2 @@
+- mencoba demo yang ada
+- mencari tahu apa yang diperlukan untuk menjalankan WSL

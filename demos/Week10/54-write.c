@@ -31,3 +31,28 @@ void main(void) {
    printf("See output file %s\n", FILE5);
 }
 
+/* Notes by Muhammad Hanif Pratama
+* Output dari program di atas adalah:
+* CCC
+* BBB
+* Mengapa demikian?
+* pada line 24 dan 25, mereka menggunakan file txt yang sama
+* pada baris ke-27, program menulis "AAAXBBB\n" pada demo-file5.txt
+* pada baris ke-28, program menulis "CCC\n" dengan meng-overwrite demo-file5.txt
+* (pointer untuk menuliskan di demo-file5.txt dimulai dari 0 lagi)
+* AAAXBBB\n
+* ^^^^^^^^^
+* CCC\nBBB\n
+*/
+
+/* Notes by Thrisnadevany
+* O_RDWR open for reading and writing
+* O_CREAT indicates that the call to open() has a mode argument,
+* if the file being opened already exist O_CREAT has no effect
+* if the file being opened does not exist it is created
+* if O_CREAT is specified and the file did not previously exist a sucessful open
+* () sets the access time, change time, and modification time for the file
+*
+* if succesful, dup() returns a new file descriptor
+* if unsucessful, dup() returs -1 and sets errno to EBADF or EMFILE
+*/

@@ -32,3 +32,12 @@ void main(void) {
    printf("ptrchr3 = %10p %15p %7c\n",  ptrchr3, &ptrchr3, *ptrchr3);
 }
 
+/* Notes by Shavira Adeva
+*Pada demo ini kita diajak untuk memahami apa kegunaan dari pointer * dan &. 
+* * berguna ketika kita ingin mengakses value dari suatu variabel dengan menggunakan pointer
+* & berguna ketika kita ingin mengakses alamat dari variabel yang diinginkan
+* Bisa dilihat contoh penggunaannya :
+* pada line 18 pointr ptchr0 menyimpan alamat dari variabel varchr0
+* pada line 25 terdapat &varchr0, maka itu artinya outputnya adalah alamat dari varchr0
+* pada line 29 terdapat ptchr0. karena pointer ptchr0 mengarah pada alamat dari variabel varchr0 maka outputnya adalah alamat dari variabel varchr0. lalu ada &ptchr0 karena menggunakan & maka outputnya adalah alamat dari variabel ptchr0. lalu ada *ptchr0. karena menggunakan * maka artinya kita akan mengambil value dar alamat yang diarahkan oleh ptchr0. karena ptchr0 mengarah ke alamat varchr0 mak dari itu outputnya adalah value dari varchr0 */
+

@@ -1,0 +1,3 @@
+- men setup wsl
+- membuat panduan menggunakan wsl pada windows 10
+- membuat dokumentasi demo

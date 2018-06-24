@@ -1,0 +1,7 @@
++- Masuk kedalam ubuntu container menggunakan akun yang telah dibuat
++- melakukan clone github os181-1
++- menambahkan nama sebagai sebagai collaborator di README.md
++- membuat folder SandBox dan README.md di dalam SandBox
++- Menambahkan tips & tricks di README.md
++- mencoba demo Week00, Week01, Week02 dan Week06 di ubuntu container
+

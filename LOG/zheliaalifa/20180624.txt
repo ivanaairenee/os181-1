@@ -1,0 +1,4 @@
++- membuat folder LOG
++- mencoba demo pada Week00, Week01, Week02
++- menambahkan notes pada Week01, file 04-doest-it-exist
++- menambahkan notes pada Week01, file 05-finding-EXIST

@@ -1,0 +1,6 @@
++- meng-install WSL di desktop sendiri
++- meng-clone git os181 di WSL
++- membuat folder mhanifpratama dalam Sandbox
++- meng-copy demos ke dalam Sandbox mhanifpratama
++- mencoba demo Week10 pada SandBox
++- menambahkan tips dan trik OS pada README.md os181-1

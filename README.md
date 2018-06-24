@@ -7,7 +7,9 @@ Anisha Inas Izdihar (Wakil Ketua 1)
 
 Nixi Sendya Putri (Wakil Ketua 2)
 
-Muhammad Iqbal Mahendra (Wakil Ketua 4)
+Raihan Mahendra Sutanto (Wakil Ketua 3)
+
+Muhammad Iqbal Mahendra (Wakil Ketua 4) - mahenbal
 
 Zhelia Alifa (Wakil Ketua 5)
 
@@ -21,9 +23,11 @@ M Ikhsan Kurniawan (Wakil Ketua 9)
 
 Stefan Mayer Sianturi (Wakil Ketua 11)
 
-Muhammad Hanif Pratama (Wakil Ketua 12)
+Muhammad Hanif Pratama (Wakil Ketua 12) - hanifalc
 
 Muhammad Afkar (Wakil Ketua 13)
+
+Ibnu Sofian Firdaus (Wakil Ketua 15)
 
 Rizki Leonardo (Wakil Ketua 16)
 
@@ -78,6 +82,8 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 10. Usahakan datang 10 menit sebelum kelas dimulai agar tidak terlambat masuk kelas (by Muhammad Iqbal Mahendra)
 11. Setelah mempelajari Buku, PPT, maupun demo sebelum kuliah dimulai, catat hal-hal yang penting dan perlu diingat di memo pada Week terkait untuk membantu memahami dan membantu menjawab soal saat UTS atau UAS (by Michael Giorgio Wirawan)
 12. Belajar bersama teman dalam persiapan untuk uts dan uas agar bisa lebih memahami konsep dengan baik. (by M Ikhsan Kurniawan)
+13. Kerjakan tugas-tugas yang diminta oleh dosen segera agar tidak terlupa dan kehilangan poin nilai yang berharga (by Rizki Leonardo)
+14. untuk memahami demo lebih baik, bisa dengan mencobanya dan ber eksperimen dari demo tersebut sehingga ilmu yang didapat semakin banyak. (by shavira adeva)
 
 ## What we learn from running demos on WSL/Ubuntu Container
 

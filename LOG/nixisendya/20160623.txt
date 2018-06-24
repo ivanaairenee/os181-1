@@ -1,0 +1,3 @@
+- Melakukan pull origin master
+- Tidak mencoba demo hari ini
+- Menambahkan tips and tricks
