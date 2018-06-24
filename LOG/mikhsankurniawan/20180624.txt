@@ -1,3 +1,4 @@
 +- membuat folder pribadi pada LOG serta 2 file log (20180623 dan 20180624)
-+- menambah notes pada Week01/a06-loop
 +- mengcopy demos ke sandbox folder pribadi
++- menambah notes pada Week01/a06-loop
++- menambah notes pada Week01/a07-tester
