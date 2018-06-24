@@ -1,0 +1,8 @@
++- mengaccept github invation dari HIGHLINE untuk dapat mengakses github os181-1
++- masuk ke akun ubuntu container
++- melakukan berbagai sudo seperti sudo apt-get update, sudo apt-get install build-essential, sudo apt-get install git-core, dan sudo apt-get install nano
++- mengclone github os181-1 ke ubuntu container
++- membuat folder Sandbox beserta README.mdnya
++- menambahkan nama sebagai collaborators dan tips & tricks di README.md
++- menambahkan notes pada Week02, file 08-uts172.c
++- menambahkan notes pada Week06, file 09-fork.c
