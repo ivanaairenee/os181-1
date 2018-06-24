@@ -1,0 +1,3 @@
+- Membuat folder LOG raihanmahendrasutanto
+- Membuat log untuk tanggal 23 dan 24 Juni 2018
+- Menambahkan Raihan Mahendra Sutanto ke dalam collaborator

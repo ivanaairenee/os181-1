@@ -1,2 +1,4 @@
 +- membuat folder log wakil 7, thrisnadevany
++- mencoba week10 file file-pointer
++- menambahkan notes pada dmeo Week10 file-pointer
 
