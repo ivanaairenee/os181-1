@@ -1,29 +1,29 @@
 # os181-1
 
 ## Collaborators:
-Ivana Irene Thomas / 1606887352 (Ketua)
+Ivana Irene Thomas (Ketua)
 
-Anisha Inas Izdihar / 1606829730 (Wakil Ketua 1)
+Anisha Inas Izdihar (Wakil Ketua 1)
 
-Nixi Sendya Putri / 1606918383 (Wakil Ketua 2)
+Nixi Sendya Putri (Wakil Ketua 2)
 
-Muhammad Iqbal Mahendra / 1606874690 (Wakil Ketua 4)
+Muhammad Iqbal Mahendra (Wakil Ketua 4)
 
-Zhelia Alifa / 1606825612 (Wakil Ketua 5)
+Zhelia Alifa (Wakil Ketua 5)
 
-Shavira Adeva / 1606831464 (Wakil Ketua 6)
+Shavira Adeva (Wakil Ketua 6)
 
-Michael Giorgio Wirawan / 1606875825 (Wakil Ketua 8)
+Michael Giorgio Wirawan (Wakil Ketua 8)
 
-M Ikhsan Kurniawan / 1606918433 (Wakil Ketua 9)
+M Ikhsan Kurniawan (Wakil Ketua 9)
 
-Stefan Mayer Sianturi / 1606918364 (Wakil Ketua 11)
+Stefan Mayer Sianturi (Wakil Ketua 11)
 
-Muhammad Hanif Pratama / 1606876065 (Wakil Ketua 12)
+Muhammad Hanif Pratama (Wakil Ketua 12)
 
-Muhammad Afkar / 1606917840 (Wakil Ketua 13)
+Muhammad Afkar (Wakil Ketua 13)
 
-Rizki Leonardo / 1606878934 (Wakil Ketua 16)
+Rizki Leonardo (Wakil Ketua 16)
 
 ## Demo Descriptions and Related OS Materials
 
@@ -80,6 +80,14 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 ## What we learn from running demos on WSL/Ubuntu Container
 
 ### Ubuntu Container
+
+### Cara menggunakan Ubuntu Container pada server Cloud Kilat
+
+1. Login ke server dengan command `ssh username@ckilat2.vlsm.org`
+2. Update ubuntu container dengan command `sudo apt-get update`
+3. Install build-essentials dengan command `sudo apt-get install build-essentials`
+4. Install git `sudo apt-get install git-core`
+5. Clone repository ini lalu jalankan demo seperti biasa
 
 ### WSL
 

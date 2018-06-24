@@ -1,0 +1,3 @@
+- Tidak melakukan git pull/push pada github
+- Memastikan bahwa setiap member sudah menginvite member dengan rank di bawahnya
+- Memastikan bahwa setiap member sudah masuk ke dalam repository github

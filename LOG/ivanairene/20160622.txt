@@ -1,0 +1,3 @@
+- Mencoba server pada ckilat, membuatkan akun untuk wakil 1
+- Inisiasi template pada readme.md
+- Mencoba menjalankan demo 1 pada ckilat (belum pada sandbox)
