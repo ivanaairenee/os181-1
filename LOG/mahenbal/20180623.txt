@@ -1,0 +1,10 @@
+- Menyelesaikan semua urusan dengan UPLINE dan DOWNLINE
+- Mencoba login ke akun Ubuntu Container
+- Mempersiapkan sistem agar dapat menggunakan GIT dan compiler C (sudo apt-get update, sudo apt-get install build-essentials, dan sudo apt-get install git-core)
+- Mencoba clone https://github.com/ivanaairenee/os181-1/ ke Ubuntu Container
+- Menambahkan nama dan rank ke dalam collaborators di file README.md
+- Membuat folder pribadi untuk coba-coba di SandBox
+- Meng-copy folder demos ke dalam SandBox
+- Mencoba demo Week04
+- Memberikan dokumentasi pada demo Week06 untuk program 04-sleep.c
+- Menambahkan Tips & Trick OS poin ke-3 dan ke-10

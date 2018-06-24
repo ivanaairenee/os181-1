@@ -1,0 +1,3 @@
+- Membuat folder pribadi untuk mengisi LOG
+- Menambahkan akun Github ke dalam collaborators di file README.md
+- Mencoba demo Week00
