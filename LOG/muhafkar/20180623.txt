@@ -1,0 +1,3 @@
+> Mengaktifkan WSL pada windows 10
+> Memberikan dokumentasi pada semua demo Week06, kecuali demo 06-fork
+> Menambahkan tips and trick
