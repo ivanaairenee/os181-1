@@ -1,0 +1,3 @@
++- menambahkan nama di README.md
++- menambahkan notes cara menggunakan WSL (0) dan notes W01 di README.md
++- membuat folder pribadi pada sandbox beserta README.md
