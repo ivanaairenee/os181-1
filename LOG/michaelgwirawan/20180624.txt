@@ -2,4 +2,5 @@
 +- membuat folder pribadi pada log beserta membuat 2 file log (20180623 dan 20180624)
 +- membuat notes pada Week07, file 00.thread.c
 +- membuat notes pada Week07, file 01.thread.c
++- copy folder demos ke SandBox
 
