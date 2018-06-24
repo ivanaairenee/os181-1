@@ -1,1 +1,2 @@
-+ membuat log mhanifpratama, wakil ketua 12
++- membuat log mhanifpratama, wakil ketua 12
++- menambahkan note di demos/Week10/54-write.c
