@@ -7,6 +7,8 @@ Anisha Inas Izdihar (Wakil Ketua 1)
 
 Nixi Sendya Putri (Wakil Ketua 2)
 
+Raihan Mahendra Sutanto (Wakil Ketua 3)
+
 Muhammad Iqbal Mahendra (Wakil Ketua 4) - mahenbal
 
 Zhelia Alifa (Wakil Ketua 5)
