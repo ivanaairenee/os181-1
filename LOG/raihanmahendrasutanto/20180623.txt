@@ -1,0 +1,6 @@
+- Setting ubuntu container dengan menjalankan beberapa perintah sudo
+- Clone repository os181-1
+- Membuat folder SandBox raihanmahendrasutanto beserta file README.md
+- Copy folder demos ke dalam folder SandBox raihanmahendrasutanto
+- Mencoba menjalankan beberapa demo untuk memastikan ubuntu container bekerja dengan baik
+
