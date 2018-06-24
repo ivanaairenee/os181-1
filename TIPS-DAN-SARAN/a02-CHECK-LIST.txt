@@ -1,0 +1,27 @@
+REV00: Sun Jun 24 07:21:36 WIB 2018
+START: Sun Jun 24 07:21:36 WIB 2018
+===================================
+
+__  Jangan lupa Rank anda: Ketua, Wakil1, Wakil2, dst...
+
+__  Confirmasi pilihan:  UC (Ubuntu Container) atau WSL (Windows Subsystem for Linux)
+
+__  Apakah sudah **diberikan** hak push/pull https://github.com/ivanaairenee/os181-1 dari upline anda?
+
+__  Apakah sudah selesai SEMUA URUSAN dengan upline anda?
+
+__  Apakah sudah **memberikan** hak push/pull https://github.com/ivanaairenee/os181-1 kepada downline anda?
+
+__  Apakah sudah selesai SEMUA URUSAN dengan downline anda?
+
+__  Apakah sudah mencoba login ke akun PILIHAN anda (UC atau WSL)?
+
+__  Apakah sudah mencoba clone https://github.com/ivanaairenee/os181-1 ke PILIHAN anda?
+
+__  Apakah sudah membuat folder untuk coba-coba di "SandBox"?
+
+__  Apakah sudah membuat folder untuk mengisi log di "LOG"?
+
+__  Apakah sudah mencoba mengkompilasi program sederhana "hello.c" didalam SandBox PILHAN anda?
+
+
