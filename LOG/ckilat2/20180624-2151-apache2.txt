@@ -1,0 +1,8 @@
+Sun Jun 24 21:51:54 WIB 2018
+
+apache2:
+
+modifikasi /var/www/html/index.html
+silakan ubah.
+
+rms
