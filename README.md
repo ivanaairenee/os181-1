@@ -15,7 +15,7 @@ Shavira Adeva / 1606831464 (Wakil Ketua 6)
 
 Michael Giorgio Wirawan / 1606875825 (Wakil Ketua 8)
 
-M Ikhsan Kurniawan (Wakil Ketua 9)
+M Ikhsan Kurniawan / 1606918433 (Wakil Ketua 9)
 
 Stefan Mayer Sianturi / 1606918364 (Wakil Ketua 11)
 
