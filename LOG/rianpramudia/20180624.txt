@@ -1,0 +1,2 @@
+Daily log
+- Mencoba demo Week06 - Week08 pada Ubuntu WSL

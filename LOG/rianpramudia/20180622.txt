@@ -1,0 +1,4 @@
+Daily Log
+- Mempelajari cara instalasi WSL
+- Melakukan instalasi WSL
+- Instalasi Ubuntu, build-essential, git clone di WSL
