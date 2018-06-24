@@ -34,3 +34,10 @@ echo "================================"
 
 exit
 
+/* by M Ikhsan Kurniawan
+*Line 14: variable RESULT akan menampung setiap nama file yang ada di dalam folder W01-demos dengan menggunakan line scripting
+*Line 24: jika $II adalah ada dan regular file maka echo "[$II] is a file
+*Line 25: jika $II tidak ada atau bukan regular file maka echo "[$II] is NOT a file"
+*Line 27-28: jika $II ada dan adalah directory maka echo "[$II] is a directory"
+*Line 29-30: jika $II tidak ada atau bukan directory maka echo "[$II] is NOT a directory"
+*/
