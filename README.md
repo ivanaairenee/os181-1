@@ -23,6 +23,8 @@ Muhammad Hanif Pratama (Wakil Ketua 12) - hanifalc
 
 Muhammad Afkar (Wakil Ketua 13)
 
+Ibnu Sofian Firdaus (Wakil Ketua 15)
+
 Rizki Leonardo (Wakil Ketua 16)
 
 ## Demo Descriptions and Related OS Materials
