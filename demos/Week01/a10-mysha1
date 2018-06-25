@@ -48,3 +48,11 @@ echo "Student ID HASH:  0$TRANS"
 
 exit 0
 
+/*created by zhelialifa WK5
+*Run with Ubuntu Container
+*Line 40: diminta untuk memasukan NPM atau Student ID
+*Line 41: SHA-1 (Secure Hash Algorithm) adalah crypthographic has function yang mengambil input dan menghasilkan 160-bit (20 byte) sepanjang 40 digit
+*Line 43:  CUT mengambil hasil SHA1SUM hanya sampai index ke-10 
+*Line 45: TRANS mengubah char yang menjadi CAPSLOCK atau huruf besar
+*/
+
