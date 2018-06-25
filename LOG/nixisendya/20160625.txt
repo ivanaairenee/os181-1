@@ -1,0 +1,3 @@
+- Login server ckilat2
+- Pull updates di server
+- Mencoba demo Week06
