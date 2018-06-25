@@ -1,3 +1,6 @@
-+- menambahkan nama di README.md
-+- menambahkan notes cara menggunakan WSL (0) dan notes W01 di README.md
-+- membuat folder pribadi pada sandbox beserta README.md
+++ install program-program dan file yang dibutuhkan untuk menjalankan demo sesuai pembagian tugas (wsl)
+++ berkumpul di fakultas untuk berdiskusi demo
+++ menambahkan nama di README.md
+++ mencoba demo w00 dan w01
+++ menambahkan notes cara menggunakan WSL (0) dan notes W01 di README.md
+++ membuat folder pribadi pada sandbox beserta README.md

@@ -1,0 +1,3 @@
+++ pull file
+++ membuat log 20180625.txt
++- mengedit log 20180623.txt dan 20180623.txt
