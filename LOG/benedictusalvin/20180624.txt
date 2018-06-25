@@ -1,0 +1,2 @@
+1. Menginstall WSL di Laptop
+2. Mengclone os-181 ke root WSL sendiri

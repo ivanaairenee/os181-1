@@ -1,0 +1,5 @@
+1. Memasukan nama dalam Readme.md
+2. Menambah tips dan trick dalam Readme.md
+3. Membuat folder benedictusalvin di LOG
+4. Membuat folder benedictusalvin di SandBox
+5. Mengcopy demo ke folder sandbox benedictusalvin
