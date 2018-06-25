@@ -5,6 +5,6 @@
 - Menambahkan nama dan rank ke dalam collaborators di file README.md
 - Membuat folder pribadi untuk coba-coba di SandBox
 - Meng-copy folder demos ke dalam SandBox
-- Mencoba demo Week04
+- Mencoba demo Week06
 - Memberikan dokumentasi pada demo Week06 untuk program 04-sleep.c
 - Menambahkan Tips & Trick OS poin ke-3 dan ke-10
