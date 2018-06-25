@@ -1,0 +1,4 @@
++- mencoba Week04 file 03-pointers-to-pointers.c di ubuntu container
++- Mencoba week08 file 24-producer-consumer.c di ubuntu container
++- mencoba Week10 di ubuntu container
++- Membuat LOG 20180625
