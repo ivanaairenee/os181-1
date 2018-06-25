@@ -1,0 +1,2 @@
+- Mencoba demo Week01, Week02, dan Week07
+- Menambahkan dokumentasi pada demo Week07 untuk program 11-thread.c
