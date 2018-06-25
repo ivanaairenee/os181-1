@@ -62,3 +62,15 @@ void main(void) {
    close(fd);
 }
 
+/* Notes by Thrisnadevany
+* this demo will create files depends on the criteria written inside open() command
+* file 1 : if file1 doesnt exist, then it will be created
+* the file will be open out for reading and writing
+* file1 created with read/write/execute for the file owner
+*
+* file 2 : if file2 doesnt exist, then it will be created
+* the file will be open out for reading and writing
+* file2 created with read/write/execute for the file owner (S_IRWXU),
+* read/write permission for the file's group (S_IRGRP and S_IWGRP),
+* read permission for users other than the file owner
+*/
