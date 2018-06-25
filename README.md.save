@@ -1,39 +1,29 @@
 # os181-1
 
 ## Collaborators:
-Ivana Irene Thomas (Ketua) - ivanaairenee
+Ivana Irene Thomas / 1606887352 (Ketua)
 
-Anisha Inas Izdihar (Wakil Ketua 1)
+Anisha Inas Izdihar / 1606829730 (Wakil Ketua 1)
 
-Nixi Sendya Putri (Wakil Ketua 2)
+Nixi Sendya Putri / 1606918383 (Wakil Ketua 2)
 
-Raihan Mahendra Sutanto (Wakil Ketua 3)
+Muhammad Iqbal Mahendra / 1606874690 (Wakil Ketua 4)
 
-Muhammad Iqbal Mahendra (Wakil Ketua 4) - mahenbal
+Zhelia Alifa / 1606825612 (Wakil Ketua 5)
 
-Zhelia Alifa (Wakil Ketua 5)
+Shavira Adeva / 1606831464 (Wakil Ketua 6)
 
-Shavira Adeva (Wakil Ketua 6)
+Michael Giorgio Wirawan / 1606875825 (Wakil Ketua 8)
 
-Thrisnadevany Amalia (Wakil Ketua 7)
+M Ikhsan Kurniawan / 1606918433 (Wakil Ketua 9)
 
-Michael Giorgio Wirawan (Wakil Ketua 8)
+Stefan Mayer Sianturi / 1606918364 (Wakil Ketua 11)
 
-M Ikhsan Kurniawan (Wakil Ketua 9)
+Muhammad Hanif Pratama / 1606876065 (Wakil Ketua 12)
 
-Benedictus Alvin (Wakil Ketua 10)
+Muhammad Afkar / 1606917840 (Wakil Ketua 13)
 
-Stefan Mayer Sianturi (Wakil Ketua 11)
-
-Muhammad Hanif Pratama (Wakil Ketua 12) - hanifalc
-
-Muhammad Afkar (Wakil Ketua 13)
-
-Ibnu Sofian Firdaus (Wakil Ketua 15)
-
-Rizki Leonardo (Wakil Ketua 16)
-
-Rian Pramudia Salasa (Wakil Ketua 14)
+Rizki Leonardo / 1606878934 (Wakil Ketua 16)
 
 ## Demo Descriptions and Related OS Materials
 
@@ -52,7 +42,7 @@ a. masukkan command "sudo apt-get install dos2unix"
 
 b. masukkan command "dos2unix [file]" untuk setiap [file]
 
-c. jalankan seperti biasa, yaitu "bash [file]"
+xc. jalankan seperti biasa, yaitu "bash [file]"
 
 **opsi 2: mengganti semua error dari "\r"**
 
@@ -86,10 +76,22 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 10. Usahakan datang 10 menit sebelum kelas dimulai agar tidak terlambat masuk kelas (by Muhammad Iqbal Mahendra)
 11. Setelah mempelajari Buku, PPT, maupun demo sebelum kuliah dimulai, catat hal-hal yang penting dan perlu diingat di memo pada Week terkait untuk membantu memahami dan membantu menjawab soal saat UTS atau UAS (by Michael Giorgio Wirawan)
 12. Belajar bersama teman dalam persiapan untuk uts dan uas agar bisa lebih memahami konsep dengan baik. (by M Ikhsan Kurniawan)
-13. Kerjakan tugas-tugas yang diminta oleh dosen segera agar tidak terlupa dan kehilangan poin nilai yang berharga (by Rizki Leonardo)
-14. untuk memahami demo lebih baik, bisa dengan mencobanya dan ber eksperimen dari demo tersebut sehingga ilmu yang didapat semakin banyak. (by shavira adeva)
-15. Sebelum UTS atau UAS cek kembali notes yang sudah pernah kita buat, apakah sudah cukup lengkap atau belum. Tambahkan contoh latihan UTS atau UAS dari tahun lalu ke notes bila dirasa perlu karena dapat menjadi bantuan dalam pengerjaan UTS dan UAS nantinya. (by Benedictus Alvin)
 
 ## What we learn from running demos on WSL/Ubuntu Container
 
 ### Ubuntu Container
+
+### WSL
+
+#### Cara menggunakan WSL
+
+**0. Pastikan Windows 10 64-bit anda sudah terupdate** minimal hingga versi 1607 (bisa dicek pada: Start Menu -> Settings -> System -> About)
+
+**1. Aktifkan Windows Subsystem for Linux di Windows 10** dengan cara masuk ke menu **Turn Windows Features on or off** (ketik di search box keywordnya), lalu cari **Windows Subsystem for Linux** di box yang muncul, lalu centang check-box nya, klik **OK** lalu biarkan Windows memprosesnya. 
+
+**2. Menginstall Ubuntu** Buka Microsoft Store, lalu search Ubuntu, dan install sesuai distro yang diinginkan, contohnya **Ubuntu 18.04** klik Get
+
+**3. Setup Ubuntu** buka Command Prompt, lalu ketikan perintah untuk menjalankan ubuntu (contohnya **ubuntu1804** tergantung distro yang diinstal), jika baru pertama kali dijalankan, ubuntu akan meminta untuk membuat username dan password, buat saja. Setelah itu masukan perintah **sudo apt-get update**, lalu **sudo apt-get install build-essential**, lalu **sudo apt-get install git-core**. Setelah itu kalian bisa menggunakan WSL untuk menjalankan demo-demo yang ada
+
+**4. Mencoba Demo** untuk mencoba demo, clone repository ini, lalu pergi ke direktori demo yang ingin dicoba lalu silakan dicoba (gunakan perintah *bash nama-program* untuk menjalankan program)
+

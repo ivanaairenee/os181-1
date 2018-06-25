@@ -1,0 +1,7 @@
+### Cara menggunakan Ubuntu Container pada server Cloud Kilat
+
+1. Login ke server dengan command ssh username@ckilat2.vlsm.org
+2. Update ubuntu container dengan command sudo apt-get update
+3. Install build-essentials dengan command sudo apt-get install build-essentials
+4. Install git sudo apt-get install git-core
+5. Clone repository ini lalu jalankan demo seperti biasa
