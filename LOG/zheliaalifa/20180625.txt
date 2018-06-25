@@ -1,0 +1,5 @@
++- create log for today
++- mencoba dan mengubah isi demos Week01 file a10-mysha1 dan a03-command-file-demos
++- menambahkan notes pada Week01, file a03-command-lines-demos
++- menambahkan notes pada Week01, file a10-mysha1
+
