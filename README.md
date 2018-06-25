@@ -89,7 +89,3 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 13. Kerjakan tugas-tugas yang diminta oleh dosen segera agar tidak terlupa dan kehilangan poin nilai yang berharga (by Rizki Leonardo)
 14. untuk memahami demo lebih baik, bisa dengan mencobanya dan ber eksperimen dari demo tersebut sehingga ilmu yang didapat semakin banyak. (by shavira adeva)
 15. Sebelum UTS atau UAS cek kembali notes yang sudah pernah kita buat, apakah sudah cukup lengkap atau belum. Tambahkan contoh latihan UTS atau UAS dari tahun lalu ke notes bila dirasa perlu karena dapat menjadi bantuan dalam pengerjaan UTS dan UAS nantinya. (by Benedictus Alvin)
-
-## What we learn from running demos on WSL/Ubuntu Container
-
-### Ubuntu Container
