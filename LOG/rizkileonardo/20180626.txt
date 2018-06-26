@@ -1,0 +1,3 @@
++- pull
+-- delete file yang bermasalah (pull error)
+++ membuat log 20180626
