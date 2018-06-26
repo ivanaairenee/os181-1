@@ -1,0 +1,3 @@
++- mencoba demo Week10 file 52-open-close.c
++- menambahkan notes pada demo Week10 file 52-open-close
+
