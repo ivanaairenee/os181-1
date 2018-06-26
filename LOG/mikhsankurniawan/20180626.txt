@@ -1,1 +1,3 @@
 +- Membuat file 20180626.txt
++- Menambah notes pada Week04/03-pointers-of-pointers.c
++- Menambah notes pada Week04/04-pointers-of-pointers-of-pointers.c
