@@ -51,3 +51,8 @@ int main(void) {
     return 0;
 }
 
+/* by muhafkar
+Pada WSL,
+program ini tidak bisa dijalankan karena semaphore tidak ditemukan
+sem_open-nya tidak melakukan pembuatan file jika file tidak ada, makanya error (tidak ada O_CREAT) 
+*/

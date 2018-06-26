@@ -39,3 +39,9 @@ int main() {
   }
 }
 
+/* by muhafkar
+Pada program ini, dilakukan proses fork seperti pada demo Week06
+
+Jadi, char* atau string shmem akan dirubah menjadi child_message pada proses child
+maka, setelah parent sleep, nilai shmem menjadi child_message
+*/
