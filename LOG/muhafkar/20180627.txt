@@ -1,0 +1,1 @@
+- menambahkan dokumentasi untuk demo 55-write.c dan 56-copy.c

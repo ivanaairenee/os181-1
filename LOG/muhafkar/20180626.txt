@@ -1,0 +1,1 @@
+- membuat dokumentasi untuk semua demo Week08, kecuali 20-parent.c
