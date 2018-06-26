@@ -19,3 +19,21 @@ void main(int argc, char *argv[]) {
    printf("=============================================\n");
 }
 
+/* Notes by Benedictus Alvin WK10
+ * In the beginning this program defined a main method with argc and argv as parameters
+ * ARGC (argument counter) is represents the number of things that you entered into the 
+ * command line when running this program on a terminal
+ * ARGV (argument vector) is an array that holds the string values of the things that 
+ * were entered on the command line when running this program
+ * When you run this program, line 14 will print the value of argument on your command
+ * (integer) line to console and line 17 will print the value of variable argv (char) 
+ * on your console
+ * Example : type it to run this program
+ * INPUT : ./04-argc-argv test
+ * OUTPUT (below) :
+ * The value of argc    is 2
+ * =============================================
+ * The value of argv[1] is test
+ * The value of argv[0] is ./04-argc-argv
+ * =============================================
+ */
