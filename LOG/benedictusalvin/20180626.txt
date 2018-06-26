@@ -1,4 +1,4 @@
 Mencoba demo Week00 - Week02
 Menambahkan notes pada demos/Week02/c-languange/04-argc-argv.c
 Membuat log
-
+Menambahkan notes pada demos/Week02/c-languange/05-envp.c
