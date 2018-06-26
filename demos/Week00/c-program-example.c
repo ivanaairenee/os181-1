@@ -17,4 +17,9 @@ void main() {
 /* Notes by Anisha Inas
  * When you run this program, line printf("") will 
  * print the string inside the parentheses to console
+
+ * Notes by Rian Pramudia S
+ * Line 'include <stdio.h>' calls standard input/output library for C language
+ * 'void main()' means it's the main function where the program start its execution. 
+ * Return type 'void' indicates the function return nothing/void
  */
