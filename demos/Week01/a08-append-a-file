@@ -54,3 +54,9 @@ done
 
 exit 0
 
+/*Created by zhelialifa WK5
+*Run with Ubuntu Container
+*Pada line 15-22 akan mengganti setiap line dengan f(ke-x)
+*Pada line 26-38 mengecek apakah line terserbut berada di f1-f6 atau tidak
+*cat, menampilkan isi dari sebuah file di layar
+*/
