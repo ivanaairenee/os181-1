@@ -1,0 +1,2 @@
++- Memindahkan tips and tricks yang sudah fix pada README.md terluar ke dalam folder TIPS-DAN-SARAN
+
