@@ -1,0 +1,6 @@
++- login server ckilat2
++- mencoba demos Week03
++- mengganti source pada beberapa program di Week01 dan mengesavenya pada demos di SandBox
++- menambahkan notes pada demos Week01, file a09-add-numbers
++- menambahkan notes pada demos Week01, file a08-append-a-file
++- membuat file LOG untuk 20160626.txt
