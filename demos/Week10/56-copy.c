@@ -55,3 +55,17 @@ void main(int argc, char* argv[])
    exit(0);
 }
  
+/* by muhafkar
+Program ini akan mengcopy isi dari suatu file ke file lain yang sudah ada atau belum ada
+
+Argumen argc dan argv dari main digunakan sebagai cara untuk mengirim argumen ke program
+argc adalah jumlah argumen
+argv adalah list argumennya, yang untuk list ke 0 merupakan nama filenya.
+
+Jadi, program ini butuh 2 argumen tambahan saat dijalankan,
+yang pertama adalah file yang isinya mau dicopy
+yang kedua adalah file hasil copy-annya
+yang jika file kedua namanya sudah ada maka akan direplace isinya
+
+Contohnya: ./56-copy test.txt test2.txt (test.txt harus ada dibuat terlebih dahulu dahulu atau akan error)
+*/
