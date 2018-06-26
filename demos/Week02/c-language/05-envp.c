@@ -27,3 +27,17 @@ void main(int argc, char *argv[], char **envp) {
    printf("===============================================================\n");
 }
 
+/* Notes by Benedictus Alvin WK10
+ * In the beginning this program defined a main method with argc,argv, and envp as parameters
+ * and constant variable named MAXLOOP and MAXLENG
+ * ARGC (argument counter) is represents the number of things that you entered into the 
+ * command line when running this program on a terminal
+ * ARGV (argument vector) is an array that holds the string values of the things that 
+ * were entered on the command line when running this program
+ * ENVP (program environment) is an array of strings that consists a list of the environment 
+ * variables of your shell
+ * When you run this program, this program will print your program environtment on your console
+ * This program will only print as many as 15 environtment (envp[0] - envp[14]) according to 
+ * the limit (MAXLOOP) and the environtment length is only 60 (MAXLENG)
+ * Char 57 to 59 will be replaced with X (line 20-22) and the rest will not be printed
+ */
