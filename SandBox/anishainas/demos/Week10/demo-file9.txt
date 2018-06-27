@@ -1,0 +1,2 @@
+DDDDD print to fd1=3!!!
+EEEEE print to fd2=4!!!
