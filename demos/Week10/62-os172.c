@@ -28,3 +28,15 @@ void main(void) {
    close(fd2);
 }
 
+/*
+ * by Anisha Inas
+ * argumen write() yaitu write(int fd, const void *buf, size_t nbytes)
+ * fd: file descriptor 
+ * buf: char array yang akan ditulis ke fd
+ * nbytes: berapa bytes yang akan ditulis dari char array ke fd
+ * write(fd1, "0123456789\n", 5); akan menuliskan 01234 di file
+ * write(fd2, "abcdefghij\n", 5); akan melanjutkan pointer dari fd1
+ * sehingga isi file 62-os172-demo.txt menjadi 01234abcde
+ */
+ * 
+
