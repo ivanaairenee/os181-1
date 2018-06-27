@@ -1,4 +1,4 @@
-## Tips and Trick in Operating System Course
+Tips and Trick in Operating System Course
 
 1.  You need to know every single line in demos given. (by Muhammad Hanif Pratama)
 2.  Make sure you wrote question and answers based on the test in the past in your notes (by Muhammad Hanif Pratama)
