@@ -49,7 +49,7 @@ void main(void) {
  * sehingga perintah printf dapat dijalankan.
  *
  * Variable varchr0 sampai varchr7 hanya dapat diakses di dalam fungsi main karena
- * merupaka Local Variable. 
+ * merupakan Local Variable. 
  *
  * Apabila di luar fungsi terdapat perintah printf(varchar0),
  * maka perintah tersebut tidak dapat berjalan karena tidak ada akses untuk mengambil
