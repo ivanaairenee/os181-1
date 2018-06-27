@@ -1,0 +1,6 @@
++- masuk ke akun ubuntu container
++- melakukan push & pull ke https://github.com/ivanaairenee/os181-1.git
++- menambahkan notes pada Week03, file a2-some-systemd-command-lines
++- melanjutkan menambahkan notes pada Week01, file a09-add-numbers
++- membuat LOG hari ini
++- mencoba demos pada Week03

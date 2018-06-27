@@ -1,0 +1,3 @@
++-Menambahkan notes di program 61-open-dup-demo.c di Week10
++-Menambahkan notes di program 62-os172.c di Week10
++-Menambahkan notes di program 63-os171-dup.c di Week10
