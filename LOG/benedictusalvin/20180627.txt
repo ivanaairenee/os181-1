@@ -1,0 +1,2 @@
+1. Pull dari master
+2. Menambahkan log
