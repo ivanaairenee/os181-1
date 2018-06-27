@@ -1,3 +1,5 @@
+- Login ke server ckilat2 dengan Ubuntu Container
 - Membuat folder pribadi untuk mengisi LOG
 - Menambahkan akun Github ke dalam collaborators di file README.md
 - Mencoba demo Week00
+- Melakukan push & pull ke https://github.com/ivanaairenee/os181-1.git
