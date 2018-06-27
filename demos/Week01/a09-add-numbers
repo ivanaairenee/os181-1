@@ -37,5 +37,6 @@ exit
 /*Created by zhelialifa WK5
 *Run with Ubuntu Container
 *Program ini akan menambahkan line numbers pada setiap baris di file tersebut, jika file yang dicari tidak ada maka akan keluar output File $1 does not exist
-*bersambung..
+**awk, sebuah perintah pada Linux / Unix yang mempunyai kegunaan untuk mem-parsing atau mengurai sebuah file.
+*fi, that is a script written in bash shell.
 */
