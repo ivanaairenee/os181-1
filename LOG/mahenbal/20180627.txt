@@ -1,0 +1,5 @@
+- Login ke server ckilat2 dengan Ubuntu Container
+- Merevisi LOG untuk 20180624 dan 20180625
+- Mencoba demo Week04 & Week05
+- Menambahkan dokumentasi pada demo Week04 untuk program 01-local-variables.c
+- Melakukan push & pull ke https://github.com/ivanaairenee/os181-1.git
