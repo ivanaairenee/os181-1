@@ -1,0 +1,1 @@
+- melakukan pull dan push harian di github
