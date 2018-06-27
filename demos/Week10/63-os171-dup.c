@@ -37,3 +37,14 @@ void main(void) {
    close(fd3);
 }
 
+/*
+ * by Anisha Inas
+ * write di fd1 membuat 63-os171-dup-demo.txt berisi AABB
+ * write di fd2 membuat 63-os171-dup-demo.txt berisi CCDD, hal ini
+ * terjadi karena pointer saat melakukan write di fd2 dimulai dari
+ * awal file 63-os171-dup-demo.txt
+ * write di fd3 membuat 63-os171-dup-demo.txt berisi
+ * CCDD
+ * EEFF
+ * karena melanjutkan pointer setelah write() di fd2
+ */
