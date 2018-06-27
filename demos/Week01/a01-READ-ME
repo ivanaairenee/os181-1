@@ -82,3 +82,31 @@ exit
 # Apa yang dijalankan script ini adalah mengecek ukuran dari layar terminal apakah sesuai
 # Ukuran yang diharapkan adalah 80 x 23, jika tidak begitu output yang dihasilkan akan terlihat berantakan atau ada longgar
 # lalu script ini juga menunjukkan berkas-berkas yang ada dalam folder Week01 (dengan perintah ls -AF)
+
+# ----------------------------------------
+# Notes By Rian Pramudia S (Wakil Ketua 14)
+# Line 16
+# Variabel bernama PREFIX beisi regex sebagai berikut: ^#.R:
+# Artinya: semua string yang dimulai dengan karakter #(apapun)R:'
+
+# Line 17
+# Variabel RESULT berisi command: grep $PREFIX $0
+# Artinya: ambil/grep baris dari file ini ($0) yang sesuai dengan format regex pada variabel $PREFIX
+
+# Line 20
+# Program melakukan printf dengan format berikut:
+# \n[%11s]: %s \n artinya: (new line) [(11 digit dari parameter 1)]: (string parameter 2)(new line)
+# Parameter 1 berisi cut -c 1-11 <<< $0 artinya: lakukan cut karakter 1-11 dari nama file ini ($0)
+# Parameter 2 $RESULT berisi output dari command grep yang ada di dalam variabel RESULT
+
+# Line 73
+# For II in ${HEAD}* artinya: Lakukan for loop untuk setiap file dengan awalan a
+# (a adalah isi dari variabel $HEAD)
+
+# Line 76
+# Sama dengan penjelasan Line 20 namun input dari command cut adalah
+# file-file yang masuk dalam kondisi for loop (file berawalan a)
+
+# Line 73-77 akan menampilkan judul file-file dalam directory Week00 (11 karakter) 
+# dan baris berawalan # R: dari masing-masing file
+# -------------------------------------------
