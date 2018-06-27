@@ -1,2 +1,4 @@
+- Login ke server ckilat2 dengan Ubuntu Container
 - Mencoba demo Week01, Week02, dan Week07
 - Menambahkan dokumentasi pada demo Week07 untuk program 11-thread.c
+- Melakukan push & pull ke https://github.com/ivanaairenee/os181-1.git
