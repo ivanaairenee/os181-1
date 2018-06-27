@@ -1,0 +1,2 @@
+Daily log
+- Menambahkan notes pada file demo Week00/a01-README

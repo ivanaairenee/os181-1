@@ -1,0 +1,3 @@
+Daily log
+- Melakukan git pull dari repo untuk mengupdate local WSL
+- Menambahkan notes pada demo Week00/c-program-example.c
