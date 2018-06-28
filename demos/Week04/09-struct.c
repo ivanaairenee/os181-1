@@ -34,3 +34,15 @@ void main(void) {
    printStruct(&global);
 }
 
+/* Notes by Benedictus Alvin WK10
+* Struct atau structur adalah tipe data yang tersedia di C yang memperbolehkan
+* gabungan dari berbagai macam data (Berbeda dengan array yang hanya boleh 1 jenis data)
+* Biasa digunakan sebagai catatan / record. Contohnya seperti catatan data mahasiswa
+* yang terdiri dari nama(char/string), npm(char), umur(int), dan lainnya
+* Line 11-16 mendefinisikan sebuah tipe data struct dengan nama student (berisi char dan int)
+* Line 18 ada method untuk mencetak data pada Struct dan Line 22 adalah global variabel
+* Line 31 membuat variabel mhs dengan tipe data struct (student) dan
+* Line 33 memanggil fungsi init untuk mengisi variabel global (Line 23-28)
+* Line 32 dan 34 akan mencetak data mahasiswa tersebut (nama,NIM,umur,semester)
+*/
+

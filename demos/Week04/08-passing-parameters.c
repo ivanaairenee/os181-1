@@ -59,3 +59,17 @@ void main(void) {
 }
 
 /* ******************************************************************** */
+
+/* Notes by Benedictus Alvin WK10
+* Line 52 memanggil function1() dan tidak ada operasi didalamnya (NOP() = No Operation)
+* Line 53 mencetak desimal dari ptrInt1 (0x01 = 1)
+* Line 54 memanggil function2() dengan parameter *ptrInt1 dengan int bernilai 1, sehingga
+* pada fungsi print nilai iif2 sebesar 1+1 = 2 (tidak mempengaruhi ptrInt1)
+* Line 55 kembali mencetak desimal dari ptrInt1 (1)
+* Line 56 mencetak desimal dari varInt1 (0x01 = 1)
+* Line 57 memanggil function3() dengan parameter &varInt1 dengan int* bernilai 1, namun
+* karena parameter yang digunakan adalah int* (pointer) maka nilai pada varInt1 berubah
+* menjadi 0x02 dan akan mencetak nilai varInt1 = 2
+* Line 58 mencetak desimal dari varInt1, namun karena nilai varInt1 sudah berubah akibat
+* pointer pada function 3 maka nilai varInt1 adalah 2 bukan 1
+*/
