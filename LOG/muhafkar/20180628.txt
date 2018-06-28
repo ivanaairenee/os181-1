@@ -1,0 +1,4 @@
+> Mencoba dan mempelajari demo Week05
+> Menambahkan versi windows, versi ubuntu, dan list package yang terinstall pada log 20180623.txt
+
+
