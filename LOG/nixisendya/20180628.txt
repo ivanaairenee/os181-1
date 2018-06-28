@@ -1,0 +1,4 @@
+- Login ke server ckilat2
+- Pull origin ke server
+- Membuat log tgl 27 dan 28 Juni
+
