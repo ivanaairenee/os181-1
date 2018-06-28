@@ -1,0 +1,3 @@
+1. Pull master
+2. Membuat log 28-6-2018
+3. Menambah log tentang WSL (WSLinfo.txt)
