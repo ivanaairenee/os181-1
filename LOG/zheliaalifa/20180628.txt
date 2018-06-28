@@ -1,0 +1,3 @@
++- login ubuntu container
++- melakukan git pull dan push ke https://github.com/ivanaairenee/os181-1.git
++- mencoba demos Week01, file a11-banding
