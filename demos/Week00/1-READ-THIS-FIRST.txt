@@ -29,12 +29,19 @@ File Listing:
   A MEMO example.
 
 ===================================
+REV03: Fri Jun 29 02:10:28 WIB 2018
 REV02: Mon Feb 26 20:33:37 WIB 2018
 START: Tue Feb 20 09:12:43 WIB 2018
 
-# Copyright (C) 2018 Rahmat M. Samik-Ibrahim 
+# Copyright (C) 2018 Rahmat M. Samik-Ibrahim et.al.
 # http://RahmatM.Samik-Ibrahim.vLSM.org/
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+# 
+# Fri Jun 29 02:10:51 WIB 2018
+# Notes by ....
+#
+
 
