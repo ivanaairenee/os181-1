@@ -1,0 +1,2 @@
++- pull dari git master
++- mencoba demos week00 dan week01 di Sandbox mhanifpratama"
