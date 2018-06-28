@@ -1,0 +1,3 @@
++- membuat log file 20180728.txt
++- membuat file perihal WSL
+

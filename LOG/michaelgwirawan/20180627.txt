@@ -1,0 +1,2 @@
++- membuat file log 20180627.txt
+
