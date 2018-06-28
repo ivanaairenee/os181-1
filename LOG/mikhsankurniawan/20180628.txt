@@ -1,0 +1,2 @@
++- Menambahkan log hari ini
++- Menambahkan version.txt
