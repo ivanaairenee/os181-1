@@ -101,3 +101,12 @@ void main(void) {
    beberes_trit  ("Done...");
 }
 
+/*Created by zhelialifa WK5
+*Run with Ubuntu Container
+*line 49-58: fungsi add pada program ini
+*line 60-69: fungsi substarct pada program ini
+*line 71-79: fungsi multiply pada program ini
+*line 81-89: fungsi devide pada program ini
+*line 91-101: fungsi main untuk menjalankan program ini
+*bersambung..
+*/
