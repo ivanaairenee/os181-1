@@ -1,2 +1,4 @@
++- saya menggunakan WSL ubuntu1804 dan menginstall semua package
+   yang diperintahkan pada README.md
 +- pull dari git master
 

@@ -1,4 +1,6 @@
 +- meng-install WSL di desktop sendiri
++- saya menggunakan WSL ubuntu1804 dan menginstall semua package
+   yang diperintahkan pada README.md
 +- meng-clone git os181 di WSL
 +- membuat folder mhanifpratama dalam Sandbox
 +- meng-copy demos ke dalam Sandbox mhanifpratama
