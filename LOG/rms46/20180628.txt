@@ -1,4 +1,6 @@
 Thu Jun 28 20:05:54 WIB 2018
 
 Periksa LOG
+Mengirimkan pesan kepada para peserta WSL
+
 
