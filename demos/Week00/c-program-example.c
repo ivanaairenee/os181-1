@@ -1,5 +1,5 @@
-/* (c) 2016-2017 Rahmat M. Samik-Ibrhaim
- *  REV01 Sun Aug 20 15:01:12 WIB 2017
+/* (c) 2016-2018 Rahmat M. Samik-Ibrhaim et. al.
+ *  REV02 Fri Jun 29 02:06:19 WIB 2018
  *  START Fri Jan 01 00:00:00 WIB 2016
  *  This is a free software.
  *  To compile:
@@ -14,10 +14,13 @@ void main() {
    printf("This is program #1\n");
 }
 
-/* Notes by Anisha Inas
+/* 
+ * Fri Jun 29 02:06:44 WIB 2018
+ * Notes by Anisha Inas
  * When you run this program, line printf("") will 
  * print the string inside the parentheses to console
-
+ *
+ * Fri Jun 29 02:07:20 WIB 2018
  * Notes by Rian Pramudia S
  * Line 'include <stdio.h>' calls standard input/output library for C language
  * 'void main()' means it's the main function where the program start its execution. 
