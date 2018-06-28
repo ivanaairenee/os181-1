@@ -1,1 +1,2 @@
 - menambahkan dokumentasi untuk demo 55-write.c dan 56-copy.c
+- mencoba memahami beberapa demo Week10 lainnya tanpa menulis dokumentasi

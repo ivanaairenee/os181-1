@@ -1,3 +1,5 @@
 +- login ubuntu container
 +- melakukan git pull dan push ke https://github.com/ivanaairenee/os181-1.git
 +- mencoba demos Week01, file a11-banding
++- mencoba demos Week07
++- menambahkan notes pada Week07, file 05-alu.c
