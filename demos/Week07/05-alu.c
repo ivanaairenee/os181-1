@@ -108,5 +108,7 @@ void main(void) {
 *line 71-79: fungsi multiply pada program ini
 *line 81-89: fungsi devide pada program ini
 *line 91-101: fungsi main untuk menjalankan program ini
-*bersambung..
+**sem_wait, to wait on a semaphore
+*If the value of the semaphore is negative, the calling process blocks; one of the blocked processes wakes up when another process calls sem_post.
+*sem_post, to increment the value of a semaphore. It increments the value of the semaphore and wakes up a blocked process waiting on the semaphore, if any.
 */
