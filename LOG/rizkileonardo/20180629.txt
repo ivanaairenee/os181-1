@@ -1,4 +1,4 @@
 ++pull
 ++add log 20180629.txt
-++add wsl_info.txt
-+-edit tips and trick
+++add wsl_info.txt (information of os and package installed)
++-edit tips and trick dan readme.md (mengganti nama menjadi inisial)
