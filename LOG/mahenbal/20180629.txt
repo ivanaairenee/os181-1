@@ -1,7 +1,7 @@
 - Login ke server ckilat2 dengan Ubuntu Container
-- Mengubah nama menjadi inisial di README.txt
-- Mengubah nama menjadi inisial di Tips & Trick 
-- Menambahkan nama di contributors Tips & Trick
+- Mengubah nama menjadi inisial di file README.txt
+- Mengubah nama menjadi inisial di file Tips & Tricks 
+- Menambahkan nama di contributors Tips & Tricks
 - Menambahkan tanggal dan waktu pada setiap dokumentasi demo yang pernah dibuat
 - Memperbaiki dokumentasi agar setiap baris memiliki panjang maksimal 70 karakter
 - Menghapus file .DS_Store di dalam folder demos di SandBox
