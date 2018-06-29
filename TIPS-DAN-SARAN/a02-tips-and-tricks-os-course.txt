@@ -10,7 +10,7 @@ Tips and Trick in Operating System Course
     past in your notes (MHP).
 3.  Pelajari buku Operating System Concept (9th edition) yang
     berkaitan tentang materi yang akan dibahas pada minggu tersebut
-    (by Muhammad Iqbal Mahendra)
+    (by MIM)
 4.  Membaca PPT dan mencoba demo untuk materi yang akan dibahas lalu 
     tanyakan hal-hal yang tidak dimengerti di kelas (SA).
 5.  Mencoba dan memahami setiap demo perminggunya, agar dapat menyiapkan 
@@ -25,7 +25,7 @@ Tips and Trick in Operating System Course
     untuk mengetrack sudah sebanyak apa nilai didapatkan dan kurang
     berapa untuk mencapai target (by Muhammad Afkar)
 10. Usahakan datang 10 menit sebelum kelas dimulai agar tidak
-    terlambat masuk kelas (by Muhammad Iqbal Mahendra)
+    terlambat masuk kelas (by MIM)
 11. Setelah mempelajari Buku, PPT, maupun demo sebelum kuliah dimulai,
     catat hal-hal yang penting dan perlu diingat di memo pada Week
     terkait untuk membantu memahami dan membantu menjawab soal saat
@@ -58,6 +58,7 @@ Contributors:
 - ZA: Zhelia Alifa
 - RL: Rizki Leonardo
 - BA: Benedictus Alvin
+- MIM: Muhammad Iqbal Mahendra
 - RM: Raihan Mahendra Sutanto
 ==================================
 REV01 Fri Jun 29 14:47:23 WIB 2018

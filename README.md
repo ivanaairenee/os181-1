@@ -11,7 +11,7 @@ NSP (Wakil Ketua 2)
 
 Raihan Mahendra Sutanto (Wakil Ketua 3)
 
-Muhammad Iqbal Mahendra (Wakil Ketua 4) - mahenbal
+MIM (Wakil Ketua 4) - mahenbal
 
 Zhelia Alifa (Wakil Ketua 5)
 
