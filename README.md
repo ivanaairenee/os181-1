@@ -23,7 +23,7 @@ Michael Giorgio Wirawan (Wakil Ketua 8)
 
 M Ikhsan Kurniawan (Wakil Ketua 9)
 
-Benedictus Alvin (Wakil Ketua 10)
+BA (Wakil Ketua 10)
 
 Stefan Mayer Sianturi (Wakil Ketua 11)
 

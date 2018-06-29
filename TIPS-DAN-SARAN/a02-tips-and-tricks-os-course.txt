@@ -22,7 +22,10 @@ Tips and Trick in Operating System Course
 12. Belajar bersama teman dalam persiapan untuk uts dan uas agar bisa lebih memahami konsep dengan baik. (by M Ikhsan Kurniawan)
 13. Kerjakan tugas-tugas yang diminta oleh dosen segera agar tidak terlupa dan kehilangan poin nilai yang berharga (by RL)
 14. Untuk memahami demo lebih baik, bisa dengan mencobanya dan ber eksperimen dari demo tersebut sehingga ilmu yang didapat semakin banyak. (by shavira adeva)
-15. Sebelum UTS atau UAS cek kembali notes yang sudah pernah kita buat, apakah sudah cukup lengkap atau belum. Tambahkan contoh latihan UTS atau UAS dari tahun lalu ke notes bila dirasa perlu karena dapat menjadi bantuan dalam pengerjaan UTS dan UAS nantinya. (by Benedictus Alvin)
+15. Sebelum UTS atau UAS cek kembali notes yang sudah pernah kita buat, 
+    apakah sudah lengkap atau belum. Tambahkan contoh latihan UTS atau 
+    UAS dari tahun lalu ke notes bila dirasa perlu karena dapat menjadi 
+    bantuan dalam pengerjaan UTS dan UAS nantinya. (by BA)
 16. Menyediakan sebagian halaman kosong pada memo atau buku catatan untuk mencatat materi-materi tambahan saat di kelas. (by Raihan Mahendra Sutanto)
 17. Setelah mencoba demo, Ingat mengupdate Laporan di Github sebelum deadline, dan kembali ke kelas setelah waktu istirahat. (by Stefan Mayer Sianturi)
 18. Menempati tempat duduk yang terdepan terlebih dahulu agar suara dari dosen dan gambar slide dari proyektor bisa diterima dengan jelas (by RL)
@@ -34,6 +37,7 @@ Contributors:
 - SMS: Stefan Mayer Sianturi
 - ZA: Zhelia Alifa
 - RL: Rizki Leonardo
+- BA: Benedictus Alvin
 ==================================
 REV01 Fri Jun 29 14:47:23 WIB 2018
 START Fri Jun 29 14:39:40 WIB 2018
