@@ -27,8 +27,9 @@ Tips and Trick in Operating System Course
 
 Contributors:
 - MHP: Muhammad Hanif Pratama.
+- RMS: Rahmat M. Samik-Ibrahim
 - SHA: Shavira Adeva.
 
 ==================================
-REV00 Fri Jun 29 14:39:40 WIB 2018
+REV01 Fri Jun 29 14:47:23 WIB 2018
 START Fri Jun 29 14:39:40 WIB 2018

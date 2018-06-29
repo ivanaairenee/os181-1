@@ -1,4 +1,8 @@
 Cara menggunakan WSL
+(TOLONG LANJUTKAN === RMS)
+
+         1         2         3         4         5         6         7
+1234567890123456789012345678901234567890123456789012345678901234567890 (70 chars)
 
 0. 	Pastikan Windows 10 64-bit anda sudah terupdate minimal hingga versi 1607 
 	(bisa dicek pada: Start Menu -> Settings -> System -> About)
@@ -25,3 +29,12 @@ Cara menggunakan WSL
 4. 	Mencoba Demo untuk mencoba demo, clone repository ini, 
 	lalu pergi ke direktori demo yang ingin dicoba lalu silakan dicoba 
 	(gunakan perintah bash nama-program untuk menjalankan script)
+
+
+Contributors:
+- RMS: Rahmat M. Samik-Ibrahim
+- ....
+
+==================================
+REV00 Fri Jun 29 14:44:32 WIB 2018
+START Fri Jun 29 14:44:32 WIB 2018
