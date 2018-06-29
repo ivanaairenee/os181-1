@@ -7,7 +7,7 @@ IIT (Ketua)
 
 Anisha Inas Izdihar (Wakil Ketua 1)
 
-Nixi Sendya Putri (Wakil Ketua 2)
+NSP (Wakil Ketua 2)
 
 Raihan Mahendra Sutanto (Wakil Ketua 3)
 
