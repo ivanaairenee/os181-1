@@ -1,9 +1,16 @@
 Tips and Trick in Operating System Course
+=========================================
+(TOLONG LANJUTKAN === RMS)
 
-1.  You need to know every single line in demos given. (by Muhammad Hanif Pratama)
-2.  Make sure you wrote question and answers based on the test in the past in your notes (by Muhammad Hanif Pratama)
+         1         2         3         4         5         6         7
+1234567890123456789012345678901234567890123456789012345678901234567890 (70 chars)
+
+1.  You need to know every single line in demos given (MHP).
+2.  Make sure you wrote question and answers based on the test in the past 
+    in your notes (MHP).
 3.  Pelajari buku Operating System Concept (9th edition) yang berkaitan tentang materi yang akan dibahas pada minggu tersebut (by Muhammad Iqbal Mahendra)
-4.  Membaca PPT dan mencoba demo untuk materi yang akan dibahas lalu tanyakan hal-hal yang tidak dimengerti di kelas (by Shavira Adeva)
+4.  Membaca PPT dan mencoba demo untuk materi yang akan dibahas lalu 
+    tanyakan hal-hal yang tidak dimengerti di kelas (SHA).
 5.  Mencoba dan memahami setiap demo perminggunya, agar dapat menyiapkan kelas di minggu selanjutnya (by Zhelia Alifa)
 6.  Try to understand the past exams and dont hesitate to ask what you want to know when in class or outside the class (Thrisnadevany Amalia)
 7.  Aktif dalam menjawab pertanyaan maupun bertanya dalam kelas untuk nilai partisipasi yang tinggi (by Nixi Sendya Putri)
@@ -17,3 +24,11 @@ Tips and Trick in Operating System Course
 15. Sebelum UTS atau UAS cek kembali notes yang sudah pernah kita buat, apakah sudah cukup lengkap atau belum. Tambahkan contoh latihan UTS atau UAS dari tahun lalu ke notes bila dirasa perlu karena dapat menjadi bantuan dalam pengerjaan UTS dan UAS nantinya. (by Benedictus Alvin)
 16. Menyediakan sebagian halaman kosong pada memo atau buku catatan untuk mencatat materi-materi tambahan saat di kelas. (by Raihan Mahendra Sutanto)
 
+
+Contributors:
+- MHP: Muhammad Hanif Pratama.
+- SHA: Shavira Adeva.
+
+==================================
+REV00 Fri Jun 29 14:39:40 WIB 2018
+START Fri Jun 29 14:39:40 WIB 2018
