@@ -1,0 +1,2 @@
+- melakukan git pull untuk update repo local WSL
+- membuat WSL Version.txt pada directory LOG/rianpramudia
