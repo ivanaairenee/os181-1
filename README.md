@@ -19,7 +19,7 @@ SA (Wakil Ketua 6)
 
 Thrisnadevany Amalia (Wakil Ketua 7)
 
-Michael Giorgio Wirawan (Wakil Ketua 8)
+MGW (Wakil Ketua 8)
 
 M Ikhsan Kurniawan (Wakil Ketua 9)
 

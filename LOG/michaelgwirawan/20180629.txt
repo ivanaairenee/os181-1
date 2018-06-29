@@ -1,0 +1,3 @@
++- membuat log file 20180629.txt
++- memperbaiki inisial pada README.md
+
