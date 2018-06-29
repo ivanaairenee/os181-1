@@ -21,7 +21,7 @@ Thrisnadevany Amalia (Wakil Ketua 7)
 
 Michael Giorgio Wirawan (Wakil Ketua 8)
 
-M Ikhsan Kurniawan (Wakil Ketua 9)
+MIK (Wakil Ketua 9)
 
 BA (Wakil Ketua 10)
 

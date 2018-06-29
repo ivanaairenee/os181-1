@@ -40,8 +40,12 @@ void main(void) {
    printf("ptrptr3 = %10p  %14p   %8p\n", ptrptr3, &ptrptr3, *ptrptr3);
 }
 
-/* Notes by M Ikhsan Kurniawan
+/*
+* Tue Jun 26 2018
+* Notes by M Ikhsan Kurniawan
 * Line 22 : ptrptr0 akan menyimpan alamat dari ptrchr0
-* Line 37 : ptrptr0 akan berisi alamat dari ptrchr0, &ptrptr0 akan berisi alamat dari ptrptr0, dan *ptrptr0 akan berisi isi dari
+* Line 37 : ptrptr0 akan berisi alamat dari ptrchr0,
+* &ptrptr0 akan berisi alamat dari ptrptr0, dan
+* *ptrptr0 akan berisi isi dari
 * &ptrchr0 yang mana adalah alamat dari varchr0
 */
