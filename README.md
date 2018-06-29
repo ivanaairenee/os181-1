@@ -31,7 +31,7 @@ Muhammad Hanif Pratama (Wakil Ketua 12) - hanifalc
 
 Muhammad Afkar (Wakil Ketua 13)
 
-Ibnu Sofian Firdaus (Wakil Ketua 15)
+ISF (Wakil Ketua 15)
 
 Rizki Leonardo (Wakil Ketua 16)
 
@@ -46,7 +46,7 @@ Rian Pramudia Salasa (Wakil Ketua 14)
 **Related OS Material**: A little introduction to C language and scripting
 
 #### Demo W01
-notes by Rizki Leonardo: di wsl, jika program tidak berjalan karena command "\r", ada 3 opsi solusi untuk memecahkan permasalahan ini: (pilih salah satu saja)
+notes by RL: di wsl, jika program tidak berjalan karena command "\r", ada 3 opsi solusi untuk memecahkan permasalahan ini: (pilih salah satu saja)
 
 **opsi 1: dos2unix**
 
