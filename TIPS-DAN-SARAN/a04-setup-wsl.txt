@@ -19,11 +19,13 @@ Cara menggunakan WSL
 	(contohnya ubuntu1804, tergantung distro yang diinstal), 
 	jika baru pertama kali dijalankan, ubuntu akan meminta untuk membuat username dan password, 
 	buat saja. Setelah itu masukan perintah : 
-	
-	sudo apt-get update 
-	sudo apt-get install build-essential
-	sudo apt-get install git-core
-	
+
+        sudo apt-get update
+        sudo apt-get dist-upgrade -y
+        sudo apt-get autoremove -y
+        sudo apt-get autoclean -y
+        sudo apt-get install build-essentials git-core
+
 	Setelah itu kalian bisa menggunakan WSL untuk menjalankan demo-demo yang ada
 
 4. 	Mencoba Demo untuk mencoba demo, clone repository ini, 
@@ -36,5 +38,5 @@ Contributors:
 - ....
 
 ==================================
-REV00 Fri Jun 29 14:44:32 WIB 2018
+REV01 Fri Jun 29 14:58:28 WIB 2018
 START Fri Jun 29 14:44:32 WIB 2018
