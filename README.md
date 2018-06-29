@@ -15,7 +15,7 @@ Muhammad Iqbal Mahendra (Wakil Ketua 4) - mahenbal
 
 Zhelia Alifa (Wakil Ketua 5)
 
-Shavira Adeva (Wakil Ketua 6)
+SA (Wakil Ketua 6)
 
 Thrisnadevany Amalia (Wakil Ketua 7)
 
