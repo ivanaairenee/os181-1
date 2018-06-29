@@ -6,8 +6,8 @@ Tips and Trick in Operating System Course
 1234567890123456789012345678901234567890123456789012345678901234567890 (70 chars)
 
 1.  You need to know every single line in demos given (MHP).
-2.  Make sure you wrote question and answers based on the test in the past 
-    in your notes (MHP).
+2.  Make sure you wrote question and answers based on the test in the
+    past in your notes (MHP).
 3.  Pelajari buku Operating System Concept (9th edition) yang
     berkaitan tentang materi yang akan dibahas pada minggu tersebut
     (by Muhammad Iqbal Mahendra)
