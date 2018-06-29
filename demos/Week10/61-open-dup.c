@@ -49,17 +49,20 @@ void main(void) {
    close(fd3);
 }
 
-/*
- * by Anisha Inas
+/* Fri Jun 29 23:45:00 WIB 2018
+ * by AII
  * open() akan mengembalikan int file descriptor dengan
  * fd1, fd2, fd3 berturut-turut bernilai 3, 4, 5.
- * di fd1 dilakukan write sehingga file 61-open-dup-demo.txt berisi:
+ * di fd1 dilakukan write sehingga file 
+ * 61-open-dup-demo.txt berisi:
  * AAAAAAAAAA
  *
- * Kemudian di fd2 di write() sehingga file 61-open-dup-demo.txt berisi:
+ * Kemudian di fd2 di write() sehingga 
+ * file 61-open-dup-demo.txt berisi:
  * X3X4X5XAAA
  *
  * Terakhir di fd3 yang melakukan dup(fd1) dilakukan write() dengan
- * melanjutkan pointer dari fd1 sehingga akhirnya file 61-open-dup-demo.txt berisi:
+ * melanjutkan pointer dari fd1 sehingga akhirnya 
+ * file 61-open-dup-demo.txt berisi:
  * X3X4X5XAAABBBBB
  */

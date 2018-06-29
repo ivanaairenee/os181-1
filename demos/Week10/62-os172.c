@@ -28,9 +28,10 @@ void main(void) {
    close(fd2);
 }
 
-/*
- * by Anisha Inas
- * argumen write() yaitu write(int fd, const void *buf, size_t nbytes)
+/* Fri Jun 29 23:45:00 WIB 2018
+ * by AII
+ * argumen write() yaitu 
+ * write(int fd, const void *buf, size_t nbytes)
  * fd: file descriptor 
  * buf: char array yang akan ditulis ke fd
  * nbytes: berapa bytes yang akan ditulis dari char array ke fd

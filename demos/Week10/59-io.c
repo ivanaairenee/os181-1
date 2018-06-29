@@ -38,11 +38,14 @@ void main(void) {
    close(fd2);
 }
 
-/*
- * by Anisha Inas
- * printf function is used to print character stream of data on stdout console.
+/* Fri Jun 29 23:44:00 WIB 2018
+ * by AII
+ * printf function is used to print character stream 
+ * of data on stdout console.
  * fprintf places output on the named output stream.
- * sprintf writes formatted text to an array of char, as opposed to a stream.
- * dprintf places output on the file associated with the file descriptor fildes rather than on a stream.
+ * sprintf writes formatted text to an array of char, 
+ * as opposed to a stream.
+ * dprintf places output on the file associated with the 
+ * file descriptor fildes rather than on a stream.
  * open file demo-file9.txt to see the difference
  */
