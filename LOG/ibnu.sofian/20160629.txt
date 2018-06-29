@@ -1,0 +1,1 @@
+- menambahkan informasi mengenai WSL yang digunakan
