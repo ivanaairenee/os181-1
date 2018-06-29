@@ -12,7 +12,7 @@ Tips and Trick in Operating System Course
     berkaitan tentang materi yang akan dibahas pada minggu tersebut
     (by Muhammad Iqbal Mahendra)
 4.  Membaca PPT dan mencoba demo untuk materi yang akan dibahas lalu 
-    tanyakan hal-hal yang tidak dimengerti di kelas (SHA).
+    tanyakan hal-hal yang tidak dimengerti di kelas (SA).
 5.  Mencoba dan memahami setiap demo perminggunya, agar dapat menyiapkan 
     kelas di minggu selanjutnya (by ZA)
 6.  Try to understand the past exams and dont hesitate to ask what you
@@ -36,7 +36,7 @@ Tips and Trick in Operating System Course
     terlupa dan kehilangan poin nilai yang berharga (by RL)
 14. Untuk memahami demo lebih baik, bisa dengan mencobanya dan
     bereksperimen dari demo tersebut sehingga ilmu yang didapat semakin
-    banyak. (by shavira adeva)
+    banyak. (by SA)
 15. Sebelum UTS atau UAS cek kembali notes yang sudah pernah kita buat, 
     apakah sudah lengkap atau belum. Tambahkan contoh latihan UTS atau 
     UAS dari tahun lalu ke notes bila dirasa perlu karena dapat menjadi 
@@ -53,7 +53,7 @@ Tips and Trick in Operating System Course
 Contributors:
 - MHP: Muhammad Hanif Pratama.
 - RMS: Rahmat M. Samik-Ibrahim
-- SHA: Shavira Adeva.
+- SA: Shavira Adeva.
 - SMS: Stefan Mayer Sianturi
 - ZA: Zhelia Alifa
 - RL: Rizki Leonardo
