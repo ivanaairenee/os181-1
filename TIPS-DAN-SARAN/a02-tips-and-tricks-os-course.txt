@@ -11,7 +11,8 @@ Tips and Trick in Operating System Course
 3.  Pelajari buku Operating System Concept (9th edition) yang berkaitan tentang materi yang akan dibahas pada minggu tersebut (by Muhammad Iqbal Mahendra)
 4.  Membaca PPT dan mencoba demo untuk materi yang akan dibahas lalu 
     tanyakan hal-hal yang tidak dimengerti di kelas (SHA).
-5.  Mencoba dan memahami setiap demo perminggunya, agar dapat menyiapkan kelas di minggu selanjutnya (by Zhelia Alifa)
+5.  Mencoba dan memahami setiap demo perminggunya, agar dapat menyiapkan 
+    kelas di minggu selanjutnya (by ZA)
 6.  Try to understand the past exams and dont hesitate to ask what you want to know when in class or outside the class (Thrisnadevany Amalia)
 7.  Aktif dalam menjawab pertanyaan maupun bertanya dalam kelas untuk nilai partisipasi yang tinggi (by Nixi Sendya Putri)
 8.  Jangan malu untuk bertanya pada dosen maupun teman yang sudah paham, karena akan sulit jika tidak mengerti (by Muhammad Afkar)
@@ -30,6 +31,7 @@ Contributors:
 - RMS: Rahmat M. Samik-Ibrahim
 - SHA: Shavira Adeva.
 - SMS: Stefan Mayer Sianturi
+- ZA: Zhelia Alifa
 ==================================
 REV01 Fri Jun 29 14:47:23 WIB 2018
 START Fri Jun 29 14:39:40 WIB 2018
