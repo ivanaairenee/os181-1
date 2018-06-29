@@ -1,7 +1,9 @@
 # os181-1
 
+Repository ini berisi panduan, tips dan trik mengerjakan demo, dan tutorial menjalankan demo pada Ubuntu container dan WSL.
+
 ## Collaborators:
-Ivana Irene Thomas (Ketua) - ivanaairenee
+IIT (Ketua)
 
 Anisha Inas Izdihar (Wakil Ketua 1)
 
