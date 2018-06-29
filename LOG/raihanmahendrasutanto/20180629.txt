@@ -1,0 +1,4 @@
+- merapihkan file tips and trick sesuai yang diminta, yaitu 70 karakter per baris
+- menuliskan inisial pada file tips and trick
+- merapihkan sandbox milik saya (melakukan make clean, dll)
+- membuat log harian
