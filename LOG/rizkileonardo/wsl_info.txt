@@ -1,0 +1,7 @@
+Windows Edition: Windows 10 Home
+Windows Version: 1803
+OS (Windows) Build  : 17134.112
+
+WSL Ubuntu Version : Ubuntu 16.04.4 LTS
+Release: 16.04
+Codename: xenial
