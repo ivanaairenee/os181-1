@@ -1,0 +1,5 @@
+Windows Edition: Windows 10 Home Single Language
+Windows Version: 1803
+Windows Build  : 17134.112
+
+WSL Ubuntu Version : Ubuntu 16.04.4 LTS
