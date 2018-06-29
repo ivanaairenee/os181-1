@@ -14,7 +14,7 @@
 
 
 #define ITERS 2
-#define SEM_NAME "/semaphore-demo-rms46"
+#define SEM_NAME "/semaphore-demo-raihanmhndr"
 /* ATTN:
    "Dead semaphores" are lingering in folder "/dev/shm/".
    If you are the owner, you can delete "dead semaphores" manually.
