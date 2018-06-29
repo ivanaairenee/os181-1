@@ -23,7 +23,7 @@ void  multiloop(int recursive) {
    for (int ii; ii<LOOP1; ii++) {
       for (int jj; jj<LOOP2; jj++) {
          for (int kk; kk<LOOP3; kk++) {
-            dummy+=ii*jj*kk;
+            dummy+=ii+jj+kk;
          }
       }
    }
