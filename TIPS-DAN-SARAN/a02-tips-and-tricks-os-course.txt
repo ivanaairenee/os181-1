@@ -52,6 +52,9 @@ Tips and Trick in Operating System Course
 19. Pastikan benar-benar memahami apa yang dicatat di memo, jangan 
     hanya dicatat saja agar tidak kewalahan ketika mencari jawaban saat 
     ujian (by AII)
+20. Jika tidak hadir pada saat hari pengecekan memo, usahakan untuk
+    hadir pada pertemuan berikutnya agar nilai memo week tersebut 
+    tetap dapat dimasukkan (seatas ijin dosen terlebih dahulu) (by BA)
 
 Contributors:
 - MHP: Muhammad Hanif Pratama.
