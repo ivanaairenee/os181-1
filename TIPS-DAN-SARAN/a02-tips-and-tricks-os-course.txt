@@ -49,6 +49,9 @@ Tips and Trick in Operating System Course
 18. Menempati tempat duduk yang terdepan terlebih dahulu agar suara
     dari dosen dan gambar slide dari proyektor bisa diterima dengan
     jelas (by RL)
+19. Pastikan benar-benar memahami apa yang dicatat di memo, jangan 
+    hanya dicatat saja agar tidak kewalahan ketika mencari jawaban saat 
+    ujian (by AII)
 
 Contributors:
 - MHP: Muhammad Hanif Pratama.
@@ -61,6 +64,8 @@ Contributors:
 - MIM: Muhammad Iqbal Mahendra
 - RM: Raihan Mahendra Sutanto
 - NSP : Nixi Sendya Putri
+- AII : Anisha Inas Izdihar
 ==================================
 REV01 Fri Jun 29 14:47:23 WIB 2018
+REV02 Sat Jun 30 21:48:00 WIB 2018
 START Fri Jun 29 14:39:40 WIB 2018
