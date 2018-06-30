@@ -5,7 +5,7 @@ Repository ini berisi panduan, tips dan trik mengerjakan demo, dan tutorial menj
 ## Collaborators:
 IIT (Ketua)
 
-Anisha Inas Izdihar (Wakil Ketua 1)
+AII (Wakil Ketua 1)
 
 NSP (Wakil Ketua 2)
 

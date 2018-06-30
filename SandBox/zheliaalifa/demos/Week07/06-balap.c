@@ -22,14 +22,14 @@ void* bandar (void* a) {
    for (int ii=0; ii<jmlPembalap; ii++)
       sem_wait (&start);
    sem_wait (&mutex);
-   sleep(2);
+   sleep(3); /*mencoba ganti sleep*/
    rehat_acak(lamaRehat);
    printf ("Bandar Siap!\n");
    fflush(NULL);
    sem_post (&mutex);
 }
 
-int idmaster = 1;
+int idmaster = 2; /*coba ganti idmaster*/
 int juara = 1;
 int menang = TRUE;
 void* pembalap (void* a) {

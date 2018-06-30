@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2013-2018 Rahmat M. Samik-Ibrahim
  * http://rahmatm.samik-ibrahim.vlsm.org/
  * This program is free script/software. This program is distributed in the 
@@ -17,18 +17,26 @@ void main(void) {
    sleep(1);
 }
 
-/* Notes by Anisha Inas
- * In Linux, an executable stored on disk is called a program,
- * and a program loaded into memory and running is called a process. 
- * When a process is started, it is given a unique number called process ID (PID)
+/* 
+ * Fri Jun 29 23:35:00 WIB 2018
+ * Notes by AII
+ * In Linux, an executable stored on disk is called a 
+ * program,
+ * and a program loaded into memory and running is 
+ * called a process. 
+ * When a process is started, it is given a unique 
+ * number called process ID (PID)
  * that identifies that process to the system
  * 
- * Each process is assigned a parent process ID (PPID) that tells which process started it. 
+ * Each process is assigned a parent process ID (PPID) 
+ * that tells which process started it. 
  * The PPID is the PID of the process’s parent.
  *
- * To see PID and PPID in current process you can use getpid() and getppid()
+ * To see PID and PPID in current process you can use 
+ * getpid() and getppid()
  *
- * sleep() function delays program execution for a given number of seconds
+ * sleep() function delays program execution for a 
+ * given number of seconds
  */
 
 /* Notes by Michael Giorgio 

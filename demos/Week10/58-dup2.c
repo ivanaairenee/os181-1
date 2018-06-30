@@ -35,13 +35,17 @@ void main(void) {
 }
 
 /*
- * by Anisha Inas
- * dup(fd1, fd2) akan membuat copy dari fd1 kemudian disimpan di fd1
- * Dengan dup() maka mereka akan memiliki locks, file position pointers dan
- * flags yang sama
- * Oleh karena itu setelah diwrite di fd1 "AAAXBBB\n", write untuk fd2 akan dimulai
- * dari pointer yang sama setelah write di fd1. 
- * Isi akhir dari file demo-file8.txt setelah dilakukan write akan menjadi
+ * Fri Jun 29 23:43:00 WIB 2018
+ * by AII
+ * dup(fd1, fd2) akan membuat copy dari fd1 kemudian 
+ * disimpan di fd1
+ * Dengan dup() maka mereka akan memiliki locks, file 
+ * position pointers dan flags yang sama
+ * Oleh karena itu setelah diwrite di fd1 "AAAXBBB\n", 
+ * write untuk fd2 akan dimulai dari pointer yang sama 
+ * setelah write di fd1. 
+ * Isi akhir dari file demo-file8.txt setelah dilakukan 
+ * write akan menjadi
  * AAAXBBB
  * CCC
  */

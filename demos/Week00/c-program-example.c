@@ -15,8 +15,8 @@ void main() {
 }
 
 /* 
- * Fri Jun 29 02:06:44 WIB 2018
- * Notes by Anisha Inas
+ * Fri Jun 29 23:31:00 WIB 2018
+ * Notes by AII
  * When you run this program, line printf("") will 
  * print the string inside the parentheses to console
  *
