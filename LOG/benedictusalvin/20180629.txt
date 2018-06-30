@@ -2,3 +2,4 @@
 2. Membuat Log
 3. Menambahkan notes pada demos/Week04/08-passing-parrameters.c
 4. Menambahkan notes pada demos/Week04/09-struct.c
+5. Mengganti nama pada tips and trick.txt dan readme.md menjadi initial

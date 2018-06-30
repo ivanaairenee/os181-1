@@ -43,16 +43,18 @@ void main(void) {
  * &varchr0 will return the address of varable varchr0.
  */
 
-/* Notes by Muhammad Iqbal Mahendra
+/* Wed Jun 27 19:50:40 WIB 2018
+ * Notes by Muhammad Iqbal Mahendra
  *
- * Variabel HEAD1 dapat diakses di dalam fungsi main karena merupakan Global Variable,
- * sehingga perintah printf dapat dijalankan.
+ * Variabel HEAD1 dapat diakses di dalam fungsi main karena merupakan 
+ * Global Variable, sehingga perintah printf dapat dijalankan.
  *
- * Variable varchr0 sampai varchr7 hanya dapat diakses di dalam fungsi main karena
- * merupakan Local Variable. 
+ * Variable varchr0 sampai varchr7 hanya dapat diakses di dalam 
+ * fungsi main karena merupakan Local Variable. 
  *
  * Apabila di luar fungsi terdapat perintah printf(varchar0),
- * maka perintah tersebut tidak dapat berjalan karena tidak ada akses untuk mengambil
- * nilai dari varchar0 yang merupakan Local Variable di dalam fungsi main.
- *
+ * maka perintah tersebut tidak dapat berjalan karena tidak ada akses 
+ * untuk mengambil nilai dari varchar0 yang merupakan Local Variable 
+ * di dalam fungsi main.
  */
+

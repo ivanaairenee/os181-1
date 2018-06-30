@@ -32,14 +32,21 @@ void main (void) {
 
 }
 
-/* Notes by Anisha Inas
- * This program defined int variable, int array, char variable, and char array
- * The string literal assigned to a character array must be enclosed by double quotations
+/* 
+ * Fri Jun 29 23:33:00 WIB 2018
+ * Notes by AII
+ * This program defined int variable, int array,
+ * char variable, and char array
+ * The string literal assigned to a character array must be 
+ * enclosed by double quotations
  *
  * When you run this program, line printf("") will 
  * print the string inside the parentheses to console
  *
- * String inside printf() may contain embedded format tags that are replaced by 
- * the values specified in subsequent additional arguments and formatted as requested
- * You can look up c format specifier at https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm
+ * String inside printf() may contain embedded format tags 
+ * that are replaced by 
+ * the values specified in subsequent additional arguments 
+ * and formatted as requested
+ * You can look up c format specifier at 
+ * https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm
  */

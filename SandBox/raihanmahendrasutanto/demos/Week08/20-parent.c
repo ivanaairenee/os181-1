@@ -12,7 +12,7 @@
  * START Xxx Xxx XX XX:XX:XX WIB 2015
  */
 
-#define SEM_NAME "/semaphore-demo-rms46"
+#define SEM_NAME "/semaphore-demo-raihanmhndr"
 /* ATTN:
    Replace the "rms46" part in SEM_NAME with your userid!
    "Dead semaphores" are lingering in folder "/dev/shm/".

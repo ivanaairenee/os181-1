@@ -1,0 +1,1 @@
++- Rename nama menjadi inisial saja di README.md

@@ -1,0 +1,2 @@
++-Mengedit nama menjadi inisial pada notes di program c pada demos
++-Menambahkan tanggal modifikasi pada notes di demos

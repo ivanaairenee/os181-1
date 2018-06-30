@@ -26,11 +26,15 @@ void main(void) {
    printf(LINETXT);
 }
 
-/* Notes by Anisha Inas
+/* 
+ * Fri Jun 29 23:34:00 WIB 2018
+ * Notes by AII
  * Looping in c is similar to looping in java
  *
- * The outer loop will execute the block including the inner loop 
- * 4 times as declared at the beginning in variable OLOOP.
+ * The outer loop will execute the block 
+ * including the inner loop 
+ * 4 times as declared at the beginning in 
+ * variable OLOOP.
  * 
  * The inner loop will print to console 3 times as declared
  * at the beginning in variable ILOOP
