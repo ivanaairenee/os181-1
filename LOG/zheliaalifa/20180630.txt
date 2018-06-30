@@ -1,0 +1,5 @@
++- login ubuntu container
++- melakukan git pull dan push ke https://github.com/ivanaairenee/os181-1.git
++- mencoba dan memahami demos Week07, file balap.c
++- membuat LOG hari ini
++- memperbaiki max char pada suatu baris, yaitu 70 char
