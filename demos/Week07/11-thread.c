@@ -56,16 +56,27 @@ void main(void) {
    beberes_trit  ("TREXIT");
 }
 
-/*Notes by Muhammad Iqbal Mahendra
-*
-*Pada awal program, didefine nSem adalah 7.
-*Kemudian, program men-declare sebuah mutex bernama sem dengan panjang 7.
-*
-*Pada fungsi main, terdapat for loop di mana sem_init akan menginisiasi sebanyak 7 elemen di mutex sem dengan nilai 0.
-*Jika program bertemu dengan sem_post, maka nilai dari elemen tersebut akan bertambah 1.
-*Jika program bertemu dengan sem_wait, check apakah elemennya bernilai 0. Jika bernilai 0, maka program akan menunda proses hingga elemen tersebut bernilai 1.
-*
-*Pada thread1, terdapat sem_wait untuk sem[1]. Karena sem[1] bernilai 0, maka program akan menunda proses pada line di bawahnya. Baris kode di bawahnya akan dijalankan ketika sem[1] sudah tidak bernilai 0, yaitu ketika program bertemu dengan sem_post(sem[1]).
-*Pada thread-thread lainnya pun akan menjalankan hal yang sama ketika terdapat sem_wait dan sem_post
-*
-*/
+/* Mon Jun 25 23:00:10 WIB 2018
+ * Notes by Muhammad Iqbal Mahendra
+ *
+ * Pada awal program, didefine nSem adalah 7.
+ * Kemudian, program men-declare sebuah mutex bernama sem 
+ * dengan panjang 7.
+ *
+ * Pada fungsi main, terdapat for loop di mana sem_init akan 
+ * menginisiasi sebanyak 7 elemen di mutex sem dengan nilai 0.
+ *
+ * Jika program bertemu dengan sem_post, maka nilai dari elemen 
+ * tersebut akan bertambah 1.
+ * Jika program bertemu dengan sem_wait, check apakah elemennya 
+ * bernilai 0. Jika bernilai 0, maka program akan menunda proses 
+ * hingga elemen tersebut bernilai 1.
+ *
+ * Pada thread1, terdapat sem_wait untuk sem[1]. 
+ * Karena sem[1] bernilai 0, maka program akan menunda proses pada 
+ * line di bawahnya. Baris kode di bawahnya akan dijalankan ketika 
+ * sem[1] sudah tidak bernilai 0, yaitu ketika program bertemu dengan 
+ * sem_post(sem[1]). Pada thread-thread lainnya pun akan menjalankan 
+ * hal yang sama ketika terdapat sem_wait dan sem_post
+ *
+ */

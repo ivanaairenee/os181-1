@@ -17,10 +17,10 @@
 
 // DO NOT USE THE SAME SEMAPHORE NAME!!!!
 // Replace "demo" with your own SSO name.
-#define SEM_COUNT1      "/count-1-demo"
-#define SEM_COUNT2      "/count-2-demo"
-#define SEM_MUTEX       "/mutex-demo"
-#define SEM_SYNC        "/sync-demo"
+#define SEM_COUNT1      "/count-1-raihanmhndr"
+#define SEM_COUNT2      "/count-2-raihanmhndr"
+#define SEM_MUTEX       "/mutex-raihanmhndr"
+#define SEM_SYNC        "/sync-raihanmhndr"
 
 #include <fcntl.h>
 #include <stdio.h>

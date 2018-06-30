@@ -23,9 +23,9 @@
 
 // DO NOT USE THE SAME SEMAPHORE NAME!!!!
 // Replace "demo" with your own SSO name.
-#define SEM_SYN_KRAM    "/syn-KRAM-demo"
-#define SEM_SYN_AMKR    "/syn-AMKR-demo"
-#define SEM_MUTEX       "/sm_mutex-demo"
+#define SEM_SYN_KRAM    "/syn-KRAM-raihanmhndr"
+#define SEM_SYN_AMKR    "/syn-AMKR-raihanmhndr"
+#define SEM_MUTEX       "/sm_mutex-raihanmhndr"
 
 #include <fcntl.h>
 #include <stdio.h>

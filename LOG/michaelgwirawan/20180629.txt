@@ -1,0 +1,4 @@
++- membuat log file 20180629.txt
++- memperbaiki inisial pada README.md
++- memberbaiki character maksimal dalam notes yang telah saya buat
+
