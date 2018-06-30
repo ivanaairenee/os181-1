@@ -1,1 +1,1 @@
-- hanya melakukan pull dan push dari dan ke master
+- membersihkan folder dari file/folder yang tidak perlu (folder .idea dan file .DS_Store)
