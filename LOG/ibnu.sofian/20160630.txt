@@ -1,0 +1,1 @@
+- hanya melakukan pull dan push dari dan ke master
