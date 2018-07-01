@@ -1,6 +1,5 @@
 Tips and Trick in Operating System Course
 =========================================
-(TOLONG LANJUTKAN === RMS)
 
          1         2         3         4         5         6         7
 1234567890123456789012345678901234567890123456789012345678901234567890 (70 chars)
@@ -57,18 +56,18 @@ Tips and Trick in Operating System Course
     tetap dapat dimasukkan (seatas ijin dosen terlebih dahulu) (by BA)
 
 Contributors:
+- AII: Anisha Inas Izdihar
+- BA:  Benedictus Alvin
 - MHP: Muhammad Hanif Pratama.
-- RMS: Rahmat M. Samik-Ibrahim
-- SA: Shavira Adeva.
-- SMS: Stefan Mayer Sianturi
-- ZA: Zhelia Alifa
-- RL: Rizki Leonardo
-- BA: Benedictus Alvin
 - MIM: Muhammad Iqbal Mahendra
-- RM: Raihan Mahendra Sutanto
-- NSP : Nixi Sendya Putri
-- AII : Anisha Inas Izdihar
+- NSP: Nixi Sendya Putri
+- RL:  Rizki Leonardo
+- RM:  Raihan Mahendra Sutanto
+- RMS: Rahmat M. Samik-Ibrahim
+- SA:  Shavira Adeva.
+- SMS: Stefan Mayer Sianturi
+- ZA:  Zhelia Alifa
 ==================================
+START Fri Jun 29 14:39:40 WIB 2018
 REV01 Fri Jun 29 14:47:23 WIB 2018
 REV02 Sat Jun 30 21:48:00 WIB 2018
-START Fri Jun 29 14:39:40 WIB 2018
