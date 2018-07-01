@@ -1,0 +1,1 @@
+1. Hanya melakukan pull dari https://github.com/ivanaairenee/os181-1
