@@ -32,8 +32,13 @@ do
 done
 exit 0
 
-/* by M Ikhsan Kurniawan
-*Line 13: variable RESULT akan menampung setiap nama file yang ada di dalam folder W01-demos dengan menggunakan line scripting
-*Line 22-25: mencetak kata didalam file dengan jumlah baris sesuai dengan jumlah loop
-*Line 29-32: mencetak kata didalam file dalam satu baris
+/*
+* Sun Jun 24 2018
+* Notes by M Ikhsan Kurniawan 
+* Line 13: variable RESULT akan menampung setiap nama
+* file yang ada di dalam folder W01-demos dengan 
+* menggunakan line scripting
+* Line 22-25: mencetak kata didalam file dengan jumlah 
+* baris sesuai dengan jumlah loop
+* Line 29-32: mencetak kata didalam file dalam satu baris
 */

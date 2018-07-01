@@ -1,0 +1,4 @@
++- Membuat log 20180629.txt
++- Mengupdate README.md dengan inisial
++- Mengupdate notes yang telah dibuat agar tidak
+   lebih dari 70 karakter/baris

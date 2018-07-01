@@ -42,8 +42,12 @@ void main(void) {
    printf(" ppptr0 = %10p  %14p   %8p\n",  ppptr0,  &ppptr0,  *ppptr0);
 }
 
-/* Notes by M Ikhsan Kurniawan
+/*
+* Tue Jun 26 2018
+* Notes by M Ikhsan Kurniawan
 * Line 26 : ppptr0 akan menyimpan alamat dari ptrptr0
-* Line 42 : ppptr0 akan berisi alamat dari ptrptr0, &ppptr0 akan berisi alamat dari ppptr0, dan *ppptr0 akan berisi isi dari
+* Line 42 : ppptr0 akan berisi alamat dari ptrptr0,
+* &ppptr0 akan berisi alamat dari ppptr0, dan
+* *ppptr0 akan berisi isi dari
 * ptrptr0 yang mana adalah alamat dari ptrchr0.
 */

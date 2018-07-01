@@ -5,7 +5,7 @@ Repository ini berisi panduan, tips dan trik mengerjakan demo, dan tutorial menj
 ## Collaborators:
 IIT (Ketua)
 
-Anisha Inas Izdihar (Wakil Ketua 1)
+AII (Wakil Ketua 1)
 
 NSP (Wakil Ketua 2)
 
@@ -21,7 +21,7 @@ Thrisnadevany Amalia (Wakil Ketua 7)
 
 MGW (Wakil Ketua 8)
 
-M Ikhsan Kurniawan (Wakil Ketua 9)
+MIK (Wakil Ketua 9)
 
 BA (Wakil Ketua 10)
 
