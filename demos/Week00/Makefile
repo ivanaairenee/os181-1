@@ -16,7 +16,7 @@ clean:
 
 #
 # Fri Jun 29 20:00:00 WIB 2018
-# Notes by Rian Pramudia Salasa
+# Notes by RPS (WK14)
 #
 # Line 8
 # ALL: consist of default targets to compile if you run just 'make'

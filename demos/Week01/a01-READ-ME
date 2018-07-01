@@ -91,10 +91,10 @@ exit
 # (dengan perintah ls -AF)
 
 # ----------------------------------------
-# Notes By Rian Pramudia S (Wakil Ketua 14)
+# Notes By RPS (WK14)
 # Line 16
 # Variabel bernama PREFIX beisi regex sebagai berikut: ^#.R:
-# Artinya: semua string yang dimulai dengan karakter #(apapun)R:'
+# Artinya: semua line yang dimulai dengan karakter #(apapun)R:'
 
 # Line 17
 # Variabel RESULT berisi command: grep $PREFIX $0
@@ -120,7 +120,7 @@ exit
 # file-file yang masuk dalam kondisi for loop (file berawalan a)
 
 # Line 73-77 akan menampilkan judul file-file dalam directory 
-#       Week00 (11 karakter) dan baris berawalan # R: dari 
+#       Week01 (11 karakter) dan baris berawalan # R: dari 
 #       masing-masing file
 # -------------------------------------------
 

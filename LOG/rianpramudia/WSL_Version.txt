@@ -3,3 +3,6 @@ Windows Version: 1803
 Windows Build  : 17134.112
 
 WSL Ubuntu Version : Ubuntu 16.04.4 LTS
+Installed Package:
+  - build-essential
+  - git-core 
