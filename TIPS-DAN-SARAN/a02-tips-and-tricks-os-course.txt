@@ -28,7 +28,7 @@ Tips and Trick in Operating System Course
 11. Setelah mempelajari Buku, PPT, maupun demo sebelum kuliah dimulai,
     catat hal-hal yang penting dan perlu diingat di memo pada Week
     terkait untuk membantu memahami dan membantu menjawab soal saat
-    UTS atau UAS (by Michael Giorgio Wirawan)
+    UTS atau UAS (by MGW)
 12. Belajar bersama teman dalam persiapan untuk uts dan uas agar bisa
     lebih memahami konsep dengan baik. (by M Ikhsan Kurniawan)
 13. Kerjakan tugas-tugas yang diminta oleh dosen segera agar tidak
@@ -70,6 +70,7 @@ Contributors:
 - SA:  Shavira Adeva.
 - SMS: Stefan Mayer Sianturi
 - ZA:  Zhelia Alifa
+- MGW: Michael Giorgio Wirawan
 ==================================
 START Fri Jun 29 14:39:40 WIB 2018
 REV01 Fri Jun 29 14:47:23 WIB 2018
