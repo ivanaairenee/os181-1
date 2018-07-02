@@ -21,7 +21,6 @@ unsigned char   varchr1='b';
 unsigned char   varchr2='c';
 unsigned char   varchr3='d';
 unsigned char   varchr4='e';
-
 unsigned int*   ptrint0=&varint0;
 unsigned char*  ptrchr0=&varchr0;
 

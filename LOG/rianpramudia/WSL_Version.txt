@@ -6,3 +6,6 @@ WSL Ubuntu Version : Ubuntu 16.04.4 LTS
 Installed Package:
   - build-essential
   - git-core 
+  - pkg-config
+  - autoconf
+  - libfuse-dev

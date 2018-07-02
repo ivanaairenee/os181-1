@@ -1,0 +1,3 @@
+- mencoba instalasi fuse di WSL secara manual
+- mencoba instalasi fuse di WSL menggunakan module assistant
+- instalasi tidak berhasil, error message kernel dari Microsoft unsupported
