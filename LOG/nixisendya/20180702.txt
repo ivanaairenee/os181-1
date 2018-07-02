@@ -1,0 +1,5 @@
+- Login server ckilat
+- Pull/push origin
+- Menambahkan log tgl 29,30 Juni dan 1 July
+- Menyoba demo Week08, Week09**, Week10
+- Tidak mengerti cara menjalankan Week09
