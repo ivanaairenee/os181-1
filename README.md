@@ -17,7 +17,7 @@ ZA (Wakil Ketua 5)
 
 SA (Wakil Ketua 6)
 
-Thrisnadevany Amalia (Wakil Ketua 7)
+TA (Wakil Ketua 7)
 
 MGW (Wakil Ketua 8)
 
@@ -25,15 +25,15 @@ MIK (Wakil Ketua 9)
 
 BA (Wakil Ketua 10)
 
-Stefan Mayer Sianturi (Wakil Ketua 11)
+SMS (Wakil Ketua 11)
 
-Muhammad Hanif Pratama (Wakil Ketua 12) - hanifalc
+MHP (Wakil Ketua 12) - hanifalc
 
 MA (Wakil Ketua 13)
 
 ISF (Wakil Ketua 15)
 
-Rizki Leonardo (Wakil Ketua 16)
+RL (Wakil Ketua 16)
 
 RPS (Wakil Ketua 14)
 

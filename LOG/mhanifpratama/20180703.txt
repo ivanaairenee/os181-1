@@ -1,0 +1,2 @@
++- pull dari git master
++- mengedit READ.ME (mengubah inisial)
