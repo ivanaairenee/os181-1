@@ -74,5 +74,3 @@ jika masih tidak berjalan, coba restart untuk update** (bisa berkali-kali restar
 #### Demo W08
 #### Demo W09
 #### Demo W10
-
-## Tips and Trick in Operating System Course
