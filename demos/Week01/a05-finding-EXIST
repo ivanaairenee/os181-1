@@ -34,9 +34,11 @@ done
 exit 0
 
 /*created by zhelialifa WK5
-*Run with Ubuntu  Container
-*Line 14: variable RESULT akan menampung setiap nama file yang ada di dalam folder W01-demos dengan menggunakan line scripting
+*Run with Ubuntu Container
+*Line 14: variable RESULT akan menampung setiap nama file yang ada di 
+*dalam folder W01-demos dengan menggunakan line scripting
 *Line 20: mencetak kata File list: dalam tipe string
 *Line 21: mencetak suatu simbol dalam tipe string
-*Line 23: Jika file tersebut masih terdapat pada folder W01-demos maka nama file tersebut akan diprint
+*Line 23: Jika file tersebut masih terdapat pada folder W01-demos maka 
+*nama file tersebut akan diprint
 */

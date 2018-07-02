@@ -76,22 +76,33 @@ exit
 
 /*Created by zhelialifa WK5
 *Run with Ubuntu Container
-*Program ini akan menampilkan isi dari setiap hal yang ada pada TMPFILE, TESTDIR1, dan TESTDIR2
-*Line 30: ls, akan menampilkan file-file yang berada di Week01 yang sedang aktif
-*Line 31: ls -a, akan menampilkan  file-file yang berada di  Week01 yang aktif beserta file hiddennya
-*Line 32: ls -a, akan menampilkan  file-file yang berada di  Week01 yang aktif beserta file hiddennya
-*Line 33: ls -al, akan menampilkan  file-file yang berada di  Week01 yang aktif beserta file hidden +atribut dan permission filenya
-*Line 34: akan menampilkan file-file yang berada pada TESTDIR1 beserta perbedaannya
+*Program ini akan menampilkan isi dari setiap hal yang ada pada 
+*TMPFILE, TESTDIR1, dan TESTDIR2
+*Line 30: ls, akan menampilkan file-file yang berada di Week01 yang 
+*sedang aktif
+*Line 31: ls -a, akan menampilkan  file-file yang berada di  Week01 
+*yang aktif beserta file hiddennya
+*Line 32: ls -a, akan menampilkan  file-file yang berada di  Week01 
+*yang aktif beserta file hiddennya
+*Line 33: ls -al, akan menampilkan  file-file yang berada di  Week01 
+*yang aktif beserta file hidden +atribut dan permission filenya
+*Line 34: akan menampilkan file-file yang berada pada TESTDIR1 
+*beserta perbedaannya
 *Line 35: cat, menampilkan isi file dari program2.c
 *Line 36: menampilkan perbedaan isi dari file1.txt dan file2.txt
-*Line 37: diff, membandingkan perbedaan isi dari file1.txt dan file2.txt. 3,4c3,4 artinya perbedaan pada baris 3 dan 4
+*Line 37: diff, membandingkan perbedaan isi dari file1.txt dan 
+*file2.txt. 3,4c3,4 artinya perbedaan pada baris 3 dan 4
 *Line 38: sort, mengurutkan isi dari file1.txt
-*Line 39: wc, menghitung jumlah baris, kata, dan byte pada suatu file. wc -l: jumlah baris, wc -c: jumlah byte
+*Line 39: wc, menghitung jumlah baris, kata, dan byte pada suatu file. 
+*wc -l: jumlah baris, wc -c: jumlah byte
 *Line 40: date, menampilkan tanggal saat mengakses program tersebut
 *Line 41: date +%y menampilkan 2 digit tahun
 *Line 42: date +%Y menampilkan tahun
-*Line 43: menampilkan persamaan penyajian tanggal, bulan, tahun, jam, menit, dan detik
-*Line 44 dan 45: top, digunakan untuk mengetahui informasi secara real time seua proses yang berjalan saat ini pada sistem operasi Linux di komputer kita
+*Line 43: menampilkan persamaan penyajian tanggal, bulan, tahun, jam, 
+*menit, dan detik
+*Line 44 dan 45: top, digunakan untuk mengetahui informasi secara real 
+time sesuai proses yang berjalan saat ini pada sistem operasi Linux di 
+*komputer kita
 *Line 46: find, mencari sesuatu file di dalam direktori Linux kita.
 *PID : Process ID untuk process tersebut
 *PATH: penempatan file yang sedang kita cari

@@ -40,7 +40,8 @@ exit
 *Run with Ubuntu Container
 *systemctl list all enable, static, unable
 *systemctl ordered list of units sortex by init time
-*systemctl how to list enabled service, start completion, stop service errors
+*systemctl how to list enabled service, start completion, 
+*stop service errors
 *systemctl list the queued units
 *process has to exit before systemd starts follow-up units
 *manage systemd service and units

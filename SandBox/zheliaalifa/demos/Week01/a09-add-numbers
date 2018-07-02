@@ -20,7 +20,7 @@ fi
 echo ""; 
 
 [ -f "$1" ] || {
-   echo "File $1 does not exist"
+   echo "File $0 does not exist"
    exit -1
 }
 
