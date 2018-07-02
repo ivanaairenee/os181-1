@@ -54,8 +54,11 @@ Tips and Trick in Operating System Course
 20. Jika tidak hadir pada saat hari pengecekan memo, usahakan untuk
     hadir pada pertemuan berikutnya agar nilai memo week tersebut 
     tetap dapat dimasukkan (seatas ijin dosen terlebih dahulu) (by BA)
+21. Mengerjakan soal latihan yang diberikan sebelum mengikuti kelas agar
+    dapat lebih memahami materi dan dapat mengikuti kelas dengan baik
 
 Contributors:
+- IIT: Ivana Irene Thomas
 - AII: Anisha Inas Izdihar
 - BA:  Benedictus Alvin
 - MHP: Muhammad Hanif Pratama.

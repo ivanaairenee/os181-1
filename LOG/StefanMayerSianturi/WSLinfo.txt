@@ -1,0 +1,13 @@
+-------------------
+Ubuntu Version
+
+Distributor ID	: Ubuntu
+Description	: Ubuntu 18.04 LTS
+Release		: 18.04
+--------------------
+Windows Specifications
+
+Edition		: Windows 10 Education
+Version		: 1803
+OS build		: 17134.137
+--------------------
