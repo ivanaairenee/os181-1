@@ -23,3 +23,16 @@ void main (void) {
     printf ("End of String = %p\n", stringPTR);
 }
 
+/* Mon Jul 02 20:47:00 WIB 2018
+ *
+ * Notes by RM
+ * Program ini menggambarkan suatu pointer yang sedang menunjuk string
+ * "HALLO" dipindahkan oleh perintah ++stringPTR yang ada di line 20. 
+ * 
+ * Ketika program ini dieksekusi akan menampilkan sejumlah baris 
+ * "AADR3" dimana VAL adalah kata "HALLO" namun huruf pertamanya akan
+ * hilang satu persatu. Ini bukti bahwa pointer stringPTR bergerak
+ * akibat perintah pada line 20. 
+ *
+ */
+
