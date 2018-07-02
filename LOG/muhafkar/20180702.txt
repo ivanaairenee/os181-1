@@ -1,0 +1,3 @@
+- Merubah nama menjadi inisial pada semua notes yang dibuat pada demo dan membuat perbaris maks 70 char
+- Mencoba beberapa demo lain
+
