@@ -1,0 +1,2 @@
++- hanya melakukan pull saja
++- membuat daily LOG
