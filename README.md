@@ -9,7 +9,7 @@ AII (Wakil Ketua 1)
 
 NSP (Wakil Ketua 2)
 
-Raihan Mahendra Sutanto (Wakil Ketua 3)
+RM (Wakil Ketua 3)
 
 MIM (Wakil Ketua 4) - mahenbal
 
