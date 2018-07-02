@@ -1,2 +1,3 @@
 - Mengubah nama di README.md utama dengan inisial
 - Membuat LOG
+- Membuat notes untuk program 10-os172.c yang ada di Week04
