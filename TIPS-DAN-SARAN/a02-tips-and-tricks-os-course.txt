@@ -30,7 +30,7 @@ Tips and Trick in Operating System Course
     terkait untuk membantu memahami dan membantu menjawab soal saat
     UTS atau UAS (by MGW)
 12. Belajar bersama teman dalam persiapan untuk uts dan uas agar bisa
-    lebih memahami konsep dengan baik. (by M Ikhsan Kurniawan)
+    lebih memahami konsep dengan baik. (by MIK)
 13. Kerjakan tugas-tugas yang diminta oleh dosen segera agar tidak
     terlupa dan kehilangan poin nilai yang berharga (by RL)
 14. Untuk memahami demo lebih baik, bisa dengan mencobanya dan
@@ -71,6 +71,7 @@ Contributors:
 - SMS: Stefan Mayer Sianturi
 - ZA:  Zhelia Alifa
 - MGW: Michael Giorgio Wirawan
+- MIK: M Ikhsan Kurniawan
 ==================================
 START Fri Jun 29 14:39:40 WIB 2018
 REV01 Fri Jun 29 14:47:23 WIB 2018
