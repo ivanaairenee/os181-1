@@ -29,7 +29,7 @@ Stefan Mayer Sianturi (Wakil Ketua 11)
 
 Muhammad Hanif Pratama (Wakil Ketua 12) - hanifalc
 
-Muhammad Afkar (Wakil Ketua 13)
+MA (Wakil Ketua 13)
 
 ISF (Wakil Ketua 15)
 
