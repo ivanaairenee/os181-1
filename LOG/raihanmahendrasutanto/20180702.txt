@@ -1,0 +1,2 @@
+- Mengubah nama di README.md utama dengan inisial
+- Membuat LOG
