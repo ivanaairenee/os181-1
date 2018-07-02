@@ -26,8 +26,11 @@ void main(void) {
    printf("PID[%d] PPID[%d] (STOP:%s)\n", getpid(), getppid(), iAM);
 }
 
-/* by muhafkar
-Program ini mirip dengan program 01-fork, yang penjelasannya dapat dibaca pada bagian bawah program tersebut,
-bedanya sleep dilakukan pada proses child yang akan membuat proses child sleep selama 1 detik
-sebelum melakukan print stop untuk child
-*/
+/* Sat Jun 23 05:57:19 WIB 2018
+ * Notes by MA
+ * Program ini mirip dengan program 01-fork,
+ * yang penjelasannya dapat dibaca pada bagian bawah program tersebut,
+ * bedanya sleep dilakukan pada proses child yang
+ * akan membuat proses child sleep selama 1 detik
+ * sebelum melakukan print stop untuk child
+ */

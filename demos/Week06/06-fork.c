@@ -29,7 +29,8 @@ void main(void) {
    printf("VAL1=%4d VAL2=%4d VAL3=%4d\n", val1, val2, val3);
 }
 
-/* by muhafkar
-Program ini hanya akan menunjukkan pid dari proses
-dan variabel val1, val2, val3 akan memiliki value yang sama, yaitu 1000
-*/
+/* Sat Jun 23 06:24:15 WIB 2018
+ * Notes by MA
+ * Program ini hanya akan menunjukkan pid dari proses
+ * dan variabel val1, val2, val3 akan memiliki value yang sama, yaitu 1000
+ */

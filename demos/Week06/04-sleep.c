@@ -11,7 +11,7 @@
 
 void main(void) {
    int ii;
-   printf("Sleeping 3s with fflush():");
+   printf("Sleeping 3s with fflush(): ");
    fflush(NULL);
    for (ii=0; ii < 3; ii++) {
       sleep(1);
@@ -26,13 +26,16 @@ void main(void) {
    printf("\n");
 }
 
-/* by muhafkar
-Fungsi fflush(NULL) berfungsi untuk membuat print langsung dikeluarkan tanpa harus menunggu baris baru
-
-Oleh karena itu, maka ketika program dijalankan akan terlihat bahwa 
-output akan keluar perlahan lahan pada satu baris ketika menggunakan fflush,
-bukan 1 baris langsung keluar semua outputnya
-*/
+/* Sat Jun 23 06:14:03 WIB 2018
+ * Notes by MA
+ * Fungsi fflush(NULL) berfungsi untuk membuat 
+ * print langsung dikeluarkan tanpa harus menunggu baris baru
+ *
+ * Oleh karena itu, maka ketika program dijalankan akan terlihat bahwa 
+ * output akan keluar perlahan lahan 
+ * pada satu baris ketika menggunakan fflush,
+ * bukan 1 baris langsung keluar semua outputnya
+ */
 
 /* Sat Jun 23 15:40:20 WIB 2018
  * Notes by Muhammad Iqbal Mahendra

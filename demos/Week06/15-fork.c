@@ -29,7 +29,11 @@ void main (void) {
    }
 }
 
-/* by muhafkar
-Fork dilakukan di DALAM for, yang berarti childnya akan mempunyai nilai ii sendiri dan begitu pula parentnya
-Oleh karena itu, akan terdapat banyak child yang dia akan ikut looping juga
-*/
+/* Sat Jun 23 21:48:17 WIB 2018
+ * Notes by MA
+ * Fork dilakukan di DALAM for, yang berarti childnya 
+ * akan mempunyai nilai ii sendiri dan begitu pula parentnya
+ * 
+ * Oleh karena itu, 
+ * akan terdapat banyak child yang dia akan ikut looping juga
+ */

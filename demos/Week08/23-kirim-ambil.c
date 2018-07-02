@@ -126,25 +126,35 @@ void main(void) {
 //       1         2         3         4
 // 4567890123456789012345678901234567890
 
-/* by muhafkar
-Pertama, program akan ke main, mengeprint starting pid dan melakukan fungsi persiapan
-Setelah itu, pada fungsi persiapan akan mengopen semaphore sync_KRAM yang diinisiasi 0 
-(pintu pada wait semaphore ini tidak bisa dibuka), 
-sync_AMKR yang diinisiasi 0, dan 
-sem_mutex yang diinisiasi 1 
-(pintu pada wait semaphore ini bisa langsung dilewati, namun setelah lewat nilainya jd 0 lagi)
-
-Lalu me ngeprint kiriman awal yg masih 0
-
-Kemudian, karena dilakukan fork maka fungsi kirim akan dilakukan oleh proses parent 
-dan proses ambil akan dilakukan oleh proses child
-
-Pada fungsi ambil, karena mengewait sync_KRAM yang pintunya belum dibuka (masih 0),
-maka proses child belum bisa jalan
-
-Pada fungsi kirim, setelah print akan mengepost sync_KRAM yang artinya proses child akan jalan,
-yang akan melakukan post ke sync_AMKR, sehingga proses parent juga jalan. 
-
-Setelah proses tersebut, akan terjadi loop untuk saling menunggu turn untuk ambil dan kirim,
-yang pada akhirnya setelah berhenti proses parent akan mengewait sampai child selesai dahulu
-*/
+/* Tue Jun 26 14:24:49 WIB 2018 
+ * Notes by MA
+ * Pertama, program akan ke main, 
+ * mengeprint starting pid dan melakukan fungsi persiapan.
+ * Setelah itu, pada fungsi persiapan 
+ * akan mengopen semaphore sync_KRAM yang diinisiasi 0 
+ * (pintu pada wait semaphore ini tidak bisa dibuka), 
+ * sync_AMKR yang diinisiasi 0, dan 
+ * sem_mutex yang diinisiasi 1 
+ * (pintu pada wait semaphore ini bisa langsung dilewati, 
+ * namun setelah lewat nilainya jd 0 lagi)
+ * 
+ * Lalu me ngeprint kiriman awal yg masih 0
+ * 
+ * Kemudian, karena dilakukan fork 
+ * maka fungsi kirim akan dilakukan oleh proses parent 
+ * dan proses ambil akan dilakukan oleh proses child
+ * 
+ * Pada fungsi ambil, 
+ * karena mengewait sync_KRAM yang pintunya belum dibuka (masih 0),
+ * maka proses child belum bisa jalan
+ *
+ * Pada fungsi kirim, setelah print akan 
+ * mengepost sync_KRAM yang artinya proses child akan jalan,
+ * yang akan melakukan post ke sync_AMKR, 
+ * sehingga proses parent juga jalan. 
+ *
+ * Setelah proses tersebut, akan terjadi loop 
+ * untuk saling menunggu turn untuk ambil dan kirim,
+ * yang pada akhirnya setelah berhenti, 
+ * proses parent akan mengewait sampai child selesai dahulu
+ */

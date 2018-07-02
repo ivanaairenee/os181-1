@@ -32,10 +32,11 @@ void main(void) {
    }
 }
  
-/* by muhafkar
-Program ini mirip dengan program 10-fork,
-bedanya terdapat looping 3 kali saat memasukkan levelnya,
-yang menyebabkan proses child akan memiliki child lagi.
-
-Untuk detailnya, bisa digambarkan proses-prosesnya sendiri
-*/
+/* Sat Jun 23 20:57:15 WIB 2018
+ * Notes by MA 
+ * Program ini mirip dengan program 10-fork,
+ * bedanya terdapat looping 3 kali saat memasukkan levelnya,
+ * yang menyebabkan proses child akan memiliki child lagi.
+ *
+ * Untuk detailnya, bisa digambarkan proses-prosesnya sendiri
+ */

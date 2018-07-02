@@ -31,8 +31,9 @@ void main(void) {
  * getpid() and getppid()
  *
  *
+ * Sat Jun 23 05:45:10 WIB 2018
  * by muhafkar
  * Program ini menunjukkan id dari proses saat ini dan 
  * PARENT id dari proses saat ini
  * dengan menggunakan fungsi getpid() dan getppid()
-*/
+ */

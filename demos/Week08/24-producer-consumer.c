@@ -105,13 +105,16 @@ void main(void) {
 //       1         2         3         4
 // 4567890123456789012345678901234567890
 
-/* by muhafkar
-Program ini akan membagi 2 proses, 
-proses parent yg akan menjalankan producer dan child yg akan menjalankan consumer
-
-Pada inisiasi semaphore, yang diinisiasi dapat dilewati waitnya adalah ctr_prod dan mutex, 
-yang akan sangat berpengaruh terhadap proses jalannya program
-
-Nantinya proses akan melakukan looping 
-dan harus berhati hati pada perubahan buka tutup pintu semaphore
-*/
+/* Tue Jun 26 14:24:49 WIB 2018
+ * Notes by MA
+ * Program ini akan membagi 2 proses, 
+ * proses parent yg akan menjalankan producer
+ * dan child yg akan menjalankan consumer
+ *
+ * Pada inisiasi semaphore, 
+ * yang diinisiasi dapat dilewati waitnya adalah ctr_prod dan mutex, 
+ * yang akan sangat berpengaruh terhadap proses jalannya program
+ *
+ * Nantinya proses akan melakukan looping 
+ * dan harus berhati hati pada perubahan buka tutup pintu semaphore
+ */

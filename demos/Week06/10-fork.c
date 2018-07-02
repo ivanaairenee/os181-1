@@ -28,12 +28,16 @@ void main(void) {
    level = addLevelAndFork(level);
    procStatus(level);
 }
-/* by muhafkar
-Program awalnya akan mengeprint level dari proses parent.
 
-Lalu, pada saat memasukkan value ke variabel level,
-dilakukan fork dan level child akan menjadi 1,
-serta terdapat wait(NULL) yang akan membuat proses parent berhenti sejenak tanpa menambahkan nilai levelnya
-
-Kemudian akan melakukan print untuk proses child dan dilanjutkan dengan proses parent
-*/ 
+/* Sat Jun 23 20:51:18 WIB 2018
+ * Notes by MA
+ * Program awalnya akan mengeprint level dari proses parent.
+ *
+ * Lalu, pada saat memasukkan value ke variabel level,
+ * dilakukan fork dan level child akan menjadi 1,
+ * serta terdapat wait(NULL) yang akan membuat 
+ * proses parent berhenti sejenak tanpa menambahkan nilai levelnya
+ *
+ * Kemudian akan melakukan print untuk 
+ * proses child dan dilanjutkan dengan proses parent
+ */ 
