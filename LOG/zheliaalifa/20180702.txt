@@ -1,0 +1,4 @@
++- login ubuntu container
++- melakukan git pull dan push ke https://github.com/ivanaairenee/os181-1.git
++- mengganti inisial nama pada README utama
++- membuat file LOG untuk hari ini
