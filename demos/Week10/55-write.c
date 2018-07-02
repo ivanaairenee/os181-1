@@ -44,12 +44,15 @@ void main(void) {
    printf("Run: hexdump -c %s\n", FILE6);
 }
 
-/* by muhafkar
-Program ini akan membuat file baru dengan isi buf1 pada 8 char pertama, dan buf2 pada 8 char terakhir
-
-Line 31 akan membuat program menulis 8 char dari variabel char buf1 ke file yang didefine pada Line 19
-
-Line 35 akan membuat offset menjadi 32,
-yang maksudnya adalah pointernya lompat ke huruf ke 32
-Sehingga ketika menulis lg, akan dimulai pada huruf ke 33
-*/
+/* Wed Jun 27 00:30:38 WIB 2018
+ * Notes by MA
+ * Program ini akan membuat file baru dengan isi
+ * buf1 pada 8 char pertama, dan buf2 pada 8 char terakhir
+ *
+ * Line 31 akan membuat program menulis 8 char 
+ * dari variabel char buf1 ke file yang didefine pada Line 19
+ *
+ * Line 35 akan membuat offset menjadi 32,
+ * yang maksudnya adalah pointernya lompat ke huruf ke 32
+ * Sehingga ketika menulis lg, akan dimulai pada huruf ke 33
+ */
