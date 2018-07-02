@@ -1,0 +1,4 @@
++- membuat log file 20180702.txt
++- memberbaiki README.md terluar, menghilangkan header untuk tips dan trics
++- memperbaiki tips dan tricks dengan inisial
+
