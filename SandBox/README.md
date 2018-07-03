@@ -5,11 +5,9 @@ Harap masing-masing membuat folder di sini!
 
 Harap menulis nama berikut setelah interview:
 
-17. rms46 Tue Jul  3 18:00:57 WIB 2018
-
-16. xyzzy xyzzy
-
-15. xyzzy xyzzy
+17) rms46 Tue Jul  3 18:00:57 WIB 2018
+16) xyzzy xyzzy
+15) xyzzy xyzzy
 
 
 
