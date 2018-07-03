@@ -48,7 +48,8 @@ echo "Student ID HASH:  0$TRANS"
 
 exit 0
 
-/*created by zhelialifa WK5
+/*Tue Jul 03 2018
+*Notes by ZA WK5
 *Run with Ubuntu Container
 1234567890123456789012345678901234567890123456789012345678901234567890
 *Line 40: diminta untuk memasukan NPM atau Student ID
