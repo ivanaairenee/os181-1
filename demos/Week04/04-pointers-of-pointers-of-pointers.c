@@ -44,7 +44,7 @@ void main(void) {
 
 /*
 * Tue Jun 26 2018
-* Notes by M Ikhsan Kurniawan
+* Notes by MIK
 * Line 26 : ppptr0 akan menyimpan alamat dari ptrptr0
 * Line 42 : ppptr0 akan berisi alamat dari ptrptr0,
 * &ppptr0 akan berisi alamat dari ppptr0, dan
