@@ -74,7 +74,8 @@ done
 
 exit
 
-/*Created by ZA WK5
+/*Tue Jul 03 2018
+*Notes by ZA WK5
 *Run with Ubuntu Container
 *Program ini akan menampilkan isi dari setiap hal yang ada pada 
 *TMPFILE, TESTDIR1, dan TESTDIR2
