@@ -34,10 +34,4 @@ void main(void) {
    fflush(NULL);
 }
 
-/* by muhafkar
-Pada program ini, dapat dilihat bahwa terdapat 3 kali fork yang diselingi dengan  wait(NULL).
 
-Print pertama akan dilakukan pada proses child paling baru, dan setelah selesai akan ke parentnya lagi.
-
-Detail lebih jelas akan terlihat ketika menggambarkan prosesnya.
-*/

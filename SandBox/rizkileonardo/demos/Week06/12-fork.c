@@ -32,8 +32,3 @@ void main(int argc, char *argv[]) {
    waitAndPrintPID();
 }
 
-/* by muhafkar
-Pada program ini, fungsi waitAndPrintPID akan membuat proses parent menunggu sampai child selesai,
-dan proses child yg menjalankan fungsi tersebut akan melakukan print untuk PIDnya
-jika tidak memiliki child maka akan mengeprint PIDnya
-*/

@@ -30,12 +30,3 @@ void main(void) {
    *********** END * BLOCK *** */
 }
 
-/* by muhafkar
-Pada program ini, hasil fork akan dimasukkan ke dalam variabel val1, val2, dan val3
-Yang mana, nilai dari fork hanya akan masuk ke parentnya, bukan childnya
-karena proses child tidak memasukkan nilainya ke variabel dari fork tersebut
-
-Lalu, karena tidak ada sleep atau wait, maka setiap proses akan terus berjalan bersamaan
-Yang nanti pada akhirnya akan terbentuk 8 proses, dan hasil printnya akan random, 
-urutannya akan berbeda-beda setiap program ini berjalan
-*/

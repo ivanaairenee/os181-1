@@ -30,14 +30,3 @@ void main(void) {
  *
  * sleep() function delays program execution for a given number of seconds
  */
-
-/* Notes by Michael Giorgio 
- *
- * The width.precision formatting
- * Example: %10.5d formatting provides 10 characters of width, and accepts up to 
- * 5 precision.
- * Input: 10.654321
- * With %10.5d, it prints: (notice the leading space)
- *   10.65432
- */
-

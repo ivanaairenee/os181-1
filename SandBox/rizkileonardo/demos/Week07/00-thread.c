@@ -64,23 +64,3 @@ void main(void) {
    beberes_trit  ("Done...");
 }
 
-/* Notes by Michael Giorgio
- * Thread berjalan concurrently (berdampingan) dan mengakses memori yang sama secara bersamaan.
- * Ketika main dijalankan, pertama akan mendaftarkan thread, mulai dari thread1, thread2, lalu thread3.
- * Lalu saat fungi jalankan_trit() dijalankan, thread akan jalan bersamaan dari pertama terdaftar,
- * maka thread1 jalan terlebih dahulu lalu thread2 lalu thread3 (print I am a thread masing-masing), dan sleep(1)
- * menunggu selama 1 detik.
- *
- * Kemudian thread1, thread2, dan thread3 kembali jalan bersamaan. Di saat yang bersamaan,
- * thread1 mengubah share menjadi 1000 dan thread2 mengubah share menjadi 2000 (kita tidak
- * tahu siapa yang akan jalan terlebih dahulu sehingga variable share bisa menjadi 1000 atau 2000),
- * dan akaan looping bersamaan pada thread1 dan thread2 increment dan decrement share.
- * Sedangkan pada thread3, setiap 2 detik akan print hasil share sebanyak 5 kali (seiring
- * diubahnya share pada thread1 dan thread2).
- *
- * Setelah selesai, print "I am MAIN" yang diikuti dengan beberes_trit() untuk clear thread
- * yang ada dan print "Done...".
- *
- * Hal ini disebut "Race condition" dimana tidak ada keteraturan dan kejelasan ketika
- * beberapa thread mengakses 1 variable yang sama. Maka dari itu, datang peran semaphore pada file berikutnya.
- */
