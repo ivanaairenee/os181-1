@@ -29,7 +29,7 @@ echo ""
 
 exit
 
-/*created by zhelialifa WK5
+/*notes by ZA WK5
 *Run with Ubuntu Container
 *Line 14: variable RESULT akan menampung setiap nama file yang ada di 
 *dalam folder W01-demos dengan menggunakan line scripting
