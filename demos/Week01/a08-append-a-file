@@ -54,7 +54,8 @@ done
 
 exit 0
 
-/*Created by zhelialifa WK5
+/*Tue Jul 03 2018
+*Notes by ZA WK5
 *Run with Ubuntu Container
 *Pada line 15-22 akan mengganti setiap line dengan f(ke-x)
 *Pada line 26-38 mengecek apakah line terserbut berada di f1-f6 atau 
