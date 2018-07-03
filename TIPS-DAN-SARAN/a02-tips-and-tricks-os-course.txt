@@ -56,6 +56,10 @@ Tips and Trick in Operating System Course
     tetap dapat dimasukkan (seatas ijin dosen terlebih dahulu) (by BA)
 21. Mengerjakan soal latihan yang diberikan sebelum mengikuti kelas agar
     dapat lebih memahami materi dan dapat mengikuti kelas dengan baik
+22. Selain kepada dosen, bertanyalah kepada asdos jika ada hal 
+    yang membingungkan terkait demo, asdos biasanya mengadakan
+    sesi lab mingguan, dan jangan lupa untuk minta asistensi
+    sebelum ujian ! (ISF)
 
 Contributors:
 - IIT: Ivana Irene Thomas
@@ -72,6 +76,7 @@ Contributors:
 - ZA:  Zhelia Alifa
 - MGW: Michael Giorgio Wirawan
 - MIK: M Ikhsan Kurniawan
+- ISF: Ibnu Sofian Firdaus
 ==================================
 START Fri Jun 29 14:39:40 WIB 2018
 REV01 Fri Jun 29 14:47:23 WIB 2018

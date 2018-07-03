@@ -1,0 +1,3 @@
+- menambahkan tips pada file tips-dan-trik
+- me revisi file setup wsl
+- me revisi penanggalan file log
