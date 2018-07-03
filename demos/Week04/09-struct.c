@@ -34,7 +34,7 @@ void main(void) {
    printStruct(&global);
 }
 
-/* Notes by Benedictus Alvin WK10
+/* Notes by BA WK10
 * Struct atau structur adalah tipe data yang tersedia di C yang memperbolehkan
 * gabungan dari berbagai macam data (Berbeda dengan array yang hanya boleh 1 jenis data)
 * Biasa digunakan sebagai catatan / record. Contohnya seperti catatan data mahasiswa
