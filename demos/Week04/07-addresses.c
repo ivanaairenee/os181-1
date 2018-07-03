@@ -115,4 +115,8 @@ void main(void) {
    tripleLoop(0);
    end: return;
 }
-
+/*Wed Jul 04 2018 WIB
+*notes by RL:
+*command have address too.
+*this program wants you to see the adress of some command.
+*/
