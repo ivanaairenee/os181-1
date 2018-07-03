@@ -60,7 +60,7 @@ void main(void) {
 
 /* ******************************************************************** */
 
-/* Notes by Benedictus Alvin WK10
+/* Notes by BA WK10
 * Line 52 memanggil function1() dan tidak ada operasi didalamnya (NOP() = No Operation)
 * Line 53 mencetak desimal dari ptrInt1 (0x01 = 1)
 * Line 54 memanggil function2() dengan parameter *ptrInt1 dengan int bernilai 1, sehingga
