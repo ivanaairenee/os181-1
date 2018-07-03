@@ -42,7 +42,7 @@ void main(void) {
 
 /*
 * Tue Jun 26 2018
-* Notes by M Ikhsan Kurniawan
+* Notes by MIK
 * Line 22 : ptrptr0 akan menyimpan alamat dari ptrchr0
 * Line 37 : ptrptr0 akan berisi alamat dari ptrchr0,
 * &ptrptr0 akan berisi alamat dari ptrptr0, dan
