@@ -27,7 +27,8 @@ void main (void) {
    printf("==== main2 %c\n", localChar);
 }
 
-/*created by zhelialifa
+/*Sat Jun 23 2018 WIB
+*Notes by ZA
 *line 25: mengambil local char pada fungsi yaitu c
 *line 26: memanggil fungsi getGlobal()
 *line 17: mengambil global char yaitu a
