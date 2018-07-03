@@ -36,4 +36,8 @@ void main(void) {
    ptrcopy++;
    printf("ptrcopy = %14p   %19p %#8.2X\n", ptrcopy, &ptrcopy, *ptrcopy);
 }
-
+/*Wed Jul 04 06:48:00
+*Notes by RL
+*this program wants you to see what will happen
+*if a variable pointer get added
+*/
