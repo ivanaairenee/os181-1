@@ -2,6 +2,9 @@
 
 Folder ini khusus untuk coba-coba.
 Harap masing-masing membuat folder di sini!
+
+PS:
+
 Setelah interview, harap menulis nama (akun) + tanggal dalam daftar berikut ini:
 
 RMS
