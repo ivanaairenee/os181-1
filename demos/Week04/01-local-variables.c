@@ -32,7 +32,7 @@ void main(void) {
    printf("varchr7 = %#10X = %c %17p\n", varchr7, varchr7, &varchr7);
 }
 
-/* Notes by Anisha Inas
+/* Notes by AII
  * A global variable is a variable that is declared outside all functions. 
  * A local variable can only be used in the function where it is declared. 
  * A global variable can be used in all functions.
@@ -44,7 +44,7 @@ void main(void) {
  */
 
 /* Wed Jun 27 19:50:40 WIB 2018
- * Notes by Muhammad Iqbal Mahendra
+ * Notes by MIM
  *
  * Variabel HEAD1 dapat diakses di dalam fungsi main karena merupakan 
  * Global Variable, sehingga perintah printf dapat dijalankan.
