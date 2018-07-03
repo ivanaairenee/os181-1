@@ -75,9 +75,7 @@ recursive
 exit
 
 /*created by wk16
-*this file will fix name of file that contain irregular name,
-*for example: "#wahfileiniblabla" would be
-*fixed to "wahfileiniblabla".
+*this file will fix name of file that contain irregular name
 *(check ZB-Source)
 */
 
