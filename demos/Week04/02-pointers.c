@@ -32,7 +32,8 @@ void main(void) {
    printf("ptrchr3 = %10p %15p %7c\n",  ptrchr3, &ptrchr3, *ptrchr3);
 }
 
-/* Notes by Shavira Adeva
+/*Mon Jun 25 WIB 2018
+*Notes by SA
 *Pada demo ini kita diajak untuk memahami apa kegunaan dari pointer * dan &. 
 * * berguna ketika kita ingin mengakses value dari suatu variabel dengan menggunakan pointer
 * & berguna ketika kita ingin mengakses alamat dari variabel yang diinginkan
