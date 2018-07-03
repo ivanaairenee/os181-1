@@ -54,3 +54,8 @@ void main(void) {
    printf("varchr0 = %#10X = %c %10p\n", varchr0, varchr0, &varchr0);
 }
 
+/*Wed Jul 04 2018 WIB
+*notes by RL
+*this program wants you to see the difference
+*between char pointer and integer pointer
+*/
