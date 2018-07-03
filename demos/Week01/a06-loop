@@ -34,7 +34,7 @@ exit 0
 
 /*
 * Sun Jun 24 2018
-* Notes by M Ikhsan Kurniawan 
+* Notes by MIK
 * Line 13: variable RESULT akan menampung setiap nama
 * file yang ada di dalam folder W01-demos dengan 
 * menggunakan line scripting
