@@ -65,7 +65,7 @@ Tips and Trick in Operating System Course
     menjalankan demo-demo yang ada, dan tidak perlu selalu terhubung
     dengan koneksi internet seperti menggunakan badak (ISF)
 24. Wajib mencoba setiap demo karena setiap demo sudah jelas semua
-    semua petunjuknya. Terutama saat mencoba FUSE (materi di Week09).
+    semua petunjuknya. Terutama saat mencoba FUSE (materi di Week09). (MHP)
 
 Contributors:
 - IIT: Ivana Irene Thomas
