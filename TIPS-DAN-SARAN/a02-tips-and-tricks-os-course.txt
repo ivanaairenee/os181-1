@@ -66,6 +66,11 @@ Tips and Trick in Operating System Course
     dengan koneksi internet seperti menggunakan badak (ISF)
 24. Wajib mencoba setiap demo karena setiap demo sudah jelas semua
     semua petunjuknya. Terutama saat mencoba FUSE (materi di Week09). (MHP)
+25. Mencoba FUSE itu mudah kok, cukup ikuti langkah yang ada pada file
+    1-READ-THIS-FIRST.txt dan program akan berhasil. Tidak perlu takut
+    mencoba demo yang belum kalian pahami, ikuti langkah yang tersedia
+    sembari memahami jalannya program tersebut (BA)
+    
 
 Contributors:
 - IIT: Ivana Irene Thomas
