@@ -64,6 +64,8 @@ Tips and Trick in Operating System Course
     for Linux) pada Windows 10 anda, karena akan memudahkan dalam
     menjalankan demo-demo yang ada, dan tidak perlu selalu terhubung
     dengan koneksi internet seperti menggunakan badak (ISF)
+24. Wajib mencoba setiap demo karena setiap demo sudah jelas semua
+    semua petunjuknya. Terutama saat mencoba FUSE (materi di Week09).
 
 Contributors:
 - IIT: Ivana Irene Thomas
