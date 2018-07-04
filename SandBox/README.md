@@ -19,7 +19,7 @@ RMS
 08. michaelgwirawan Wed Jul 4 10:16.20 WIB 2018
 07. thrisnadevany Wed Jul 4 11:40.21 WIB 2018
 05. zhelialifa Wed Jul 4 11:28:02 WIB 2018
-07. thrisnadevany Wed Jul 4 11:35.12 WIB 2018
+07. thrisnadevany Wed Jul 4 11:40.21 WIB 2018
 03. raihanmhndr Wed Jul 4 11:40:00 WIB 2018
 ```
 
