@@ -19,10 +19,10 @@ Tips and Trick in Operating System Course
 7.  Aktif dalam menjawab pertanyaan maupun bertanya dalam kelas untuk
     nilai partisipasi yang tinggi (by NSP)
 8.  Jangan malu untuk bertanya pada dosen maupun teman yang sudah
-    paham, karena akan sulit jika tidak mengerti (by Muhammad Afkar)
+    paham, karena akan sulit jika tidak mengerti (by MA)
 9.  Untuk setiap minggunya, jangan lupa mengecek nilai pada siakng
     untuk mengetrack sudah sebanyak apa nilai didapatkan dan kurang
-    berapa untuk mencapai target (by Muhammad Afkar)
+    berapa untuk mencapai target (by MA)
 10. Usahakan datang 10 menit sebelum kelas dimulai agar tidak
     terlambat masuk kelas (by MIM)
 11. Setelah mempelajari Buku, PPT, maupun demo sebelum kuliah dimulai,
@@ -81,6 +81,8 @@ Contributors:
 - MGW: Michael Giorgio Wirawan
 - MIK: M Ikhsan Kurniawan
 - ISF: Ibnu Sofian Firdaus
+- MA: Muhammad Afkar
+
 ==================================
 START Fri Jun 29 14:39:40 WIB 2018
 REV01 Fri Jun 29 14:47:23 WIB 2018
