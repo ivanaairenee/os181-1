@@ -5,7 +5,7 @@ Harap masing-masing membuat folder di sini!
 
 ## PS:
 
-Setelah interview, harap menulis nama (akun) + tanggal dalam daftar berikut ini:
+Setelah interview, harap menulis nama akun github + tanggal dalam daftar berikut ini:
 
 RMS
 
