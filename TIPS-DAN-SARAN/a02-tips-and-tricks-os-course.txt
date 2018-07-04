@@ -60,6 +60,10 @@ Tips and Trick in Operating System Course
     yang membingungkan terkait demo, asdos biasanya mengadakan
     sesi lab mingguan, dan jangan lupa untuk minta asistensi
     sebelum ujian ! (ISF)
+23. Sangat disarankan untuk menggunakan WSL (Windows Subsystem 
+    for Linux) pada Windows 10 anda, karena akan memudahkan dalam
+    menjalankan demo-demo yang ada, dan tidak perlu selalu terhubung
+    dengan koneksi internet seperti menggunakan badak (ISF)
 
 Contributors:
 - IIT: Ivana Irene Thomas
