@@ -75,6 +75,10 @@ Tips and Trick in Operating System Course
     saat melakukan command wget, pastikan anda sudah di dalam folder 
     yang benar. Selain itu, ikuti saja langkah-langkah yang tertara
     dalam file txt dan seharusnya program akan berhasil dirun. (NSP)
+27. Belajar bukan berarti menghafal, Belajar yaitu mencoba untuk memahami dan mengerti konsep yang kita pelajari. Dengan memahami konsep setiap materi yang di pelajari, berarti Anda mampu untuk menjelaskan kembali, menggunakan konsep pada situasi yang berbeda, dan menyelesaikan setiap masalah dengan benar. Untuk itu kita mempraktekkannya dengan mengerjakan demo yang sudah disiapkan di setiap minggu. Pahami cara pengerjaannya dengan membaca dan mengerti panduan yang sudah dibuat di setiap minggu.
+28. Mengonsumsi makanan sehat dengan gizi seimbang dapat mendukung stamina tubuh untuk dapat berkonsentrasi dalam belajar dengan baik.
+29. Berdoa menurut agama dan keyakinan masing-masing, agar segala daya dan upaya kita berhasil sesuai dengan harapan kita. Usaha tanpa doa adalah sia-sia.
+
     
 
 Contributors:
@@ -94,6 +98,7 @@ Contributors:
 - MIK: M Ikhsan Kurniawan
 - ISF: Ibnu Sofian Firdaus
 - MA: Muhammad Afkar
+- IP: Irmanpen Panjaitan
 
 ==================================
 START Fri Jun 29 14:39:40 WIB 2018
